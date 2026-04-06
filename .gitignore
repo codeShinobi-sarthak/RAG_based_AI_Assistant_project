@@ -1,0 +1,8 @@
+# Ignore heavy media files
+videos/
+audios/
+*.mp4
+*.mp3
+
+# Ignore environment variables
+.env

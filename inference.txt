@@ -1,0 +1,16 @@
+In your "Image, Lists, and Tables in HTML" video:
+
+**Lists:**
+The video extensively covers lists in HTML. You can learn about how lists are made starting early in the video, around **0:02-0:05** (seconds 2.84-5.08).
+The importance of lists is highlighted around **13:29-13:31** (seconds 809.92-811.92).
+You'll find discussions and examples of different types of lists, including:
+*   **Definition lists:** Mentioned and exemplified around **13:37-13:39** (seconds 817.52-819.0), **14:41-14:43** (seconds 881.56-883.2), and **17:09-17:10** (seconds 1029.64-1030.24).
+*   **Ordered lists:** An example is shown around **14:40-14:41** (seconds 880.36-881.56).
+You can also see how to add list items around **15:52-15:55** (seconds 952.24-955.68).
+
+**Other things taught in this video:**
+Besides lists, the video also teaches:
+*   **Images:** How images are made in HTML is introduced right at the beginning, from **0:00-0:02** (seconds 0.0-2.84).
+*   **Tables:** The creation of tables in HTML is mentioned along with lists around **0:02-0:05** (seconds 2.84-5.08).
+
+You can find all this content in the video titled **"Image, Lists, and Tables in HTML"**.

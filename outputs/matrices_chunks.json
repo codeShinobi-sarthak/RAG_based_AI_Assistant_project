@@ -1,0 +1,4979 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " Good morning to all of you, good morning again",
+      "chunk_id": 0
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": " capsule has started",
+      "chunk_id": 1
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": " and today we are doing the whole mattress chapter",
+      "chunk_id": 2
+    },
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "text": " I will make only one video of mattress",
+      "chunk_id": 3
+    },
+    {
+      "start": 9.5,
+      "end": 11.5,
+      "text": " and you don't have to do anything outside of this",
+      "chunk_id": 4
+    },
+    {
+      "start": 11.5,
+      "end": 13.5,
+      "text": " just do this twice",
+      "chunk_id": 5
+    },
+    {
+      "start": 13.5,
+      "end": 15.5,
+      "text": " at least twice and maximum 4 times",
+      "chunk_id": 6
+    },
+    {
+      "start": 15.5,
+      "end": 17.5,
+      "text": " then your work will be done",
+      "chunk_id": 7
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": " clear, let's start",
+      "chunk_id": 8
+    },
+    {
+      "start": 19.5,
+      "end": 21.5,
+      "text": " ok, you all have read the mattress before",
+      "chunk_id": 9
+    },
+    {
+      "start": 21.5,
+      "end": 23.5,
+      "text": " so there is no need to tell the basics",
+      "chunk_id": 10
+    },
+    {
+      "start": 23.5,
+      "end": 25.5,
+      "text": " I will come to the direct question",
+      "chunk_id": 11
+    },
+    {
+      "start": 25.5,
+      "end": 27.5,
+      "text": " the first question is, the easiest question is",
+      "chunk_id": 12
+    },
+    {
+      "start": 27.5,
+      "end": 29.5,
+      "text": " that I have been given two mattresses and equal",
+      "chunk_id": 13
+    },
+    {
+      "start": 29.5,
+      "end": 31.5,
+      "text": " xyz whatever is the variable",
+      "chunk_id": 14
+    },
+    {
+      "start": 31.5,
+      "end": 33.5,
+      "text": " you have to find their values",
+      "chunk_id": 15
+    },
+    {
+      "start": 33.5,
+      "end": 35.5,
+      "text": " so you have to compare directly, there is no need to do anything",
+      "chunk_id": 16
+    },
+    {
+      "start": 35.5,
+      "end": 37.5,
+      "text": " the first element",
+      "chunk_id": 17
+    },
+    {
+      "start": 37.5,
+      "end": 39.5,
+      "text": " that is equal to first element",
+      "chunk_id": 18
+    },
+    {
+      "start": 39.5,
+      "end": 41.5,
+      "text": " that is 3x plus 7",
+      "chunk_id": 19
+    },
+    {
+      "start": 41.5,
+      "end": 43.5,
+      "text": " is equal to 0, x value is",
+      "chunk_id": 20
+    },
+    {
+      "start": 43.5,
+      "end": 45.5,
+      "text": " minus 7 upon 3",
+      "chunk_id": 21
+    },
+    {
+      "start": 45.5,
+      "end": 47.5,
+      "text": " now I have kept y plus 1 equal to",
+      "chunk_id": 22
+    },
+    {
+      "start": 47.5,
+      "end": 49.5,
+      "text": " 8, so y value",
+      "chunk_id": 23
+    },
+    {
+      "start": 49.5,
+      "end": 51.5,
+      "text": " is 7, then I",
+      "chunk_id": 24
+    },
+    {
+      "start": 51.5,
+      "end": 53.5,
+      "text": " kept this equal to this, still y value",
+      "chunk_id": 25
+    },
+    {
+      "start": 53.5,
+      "end": 55.5,
+      "text": " is 7 and then I kept this",
+      "chunk_id": 26
+    },
+    {
+      "start": 55.5,
+      "end": 57.5,
+      "text": " ok, what do people do, their x value",
+      "chunk_id": 27
+    },
+    {
+      "start": 57.5,
+      "end": 59.5,
+      "text": " is equal to y value, let's leave the question",
+      "chunk_id": 28
+    },
+    {
+      "start": 59.5,
+      "end": 61.5,
+      "text": " but there is a technical thing",
+      "chunk_id": 29
+    },
+    {
+      "start": 61.5,
+      "end": 63.5,
+      "text": " see if I keep fourth element equal",
+      "chunk_id": 30
+    },
+    {
+      "start": 63.5,
+      "end": 65.5,
+      "text": " then 2 minus 3x is equal",
+      "chunk_id": 31
+    },
+    {
+      "start": 65.5,
+      "end": 67.5,
+      "text": " to 4, so I got",
+      "chunk_id": 32
+    },
+    {
+      "start": 67.5,
+      "end": 69.5,
+      "text": " 3x is equal to minus 2",
+      "chunk_id": 33
+    },
+    {
+      "start": 69.5,
+      "end": 71.5,
+      "text": " x value is minus 2 upon 3",
+      "chunk_id": 34
+    },
+    {
+      "start": 71.5,
+      "end": 73.5,
+      "text": " now you can see that my x has two values",
+      "chunk_id": 35
+    },
+    {
+      "start": 73.5,
+      "end": 75.5,
+      "text": " but the variable is one",
+      "chunk_id": 36
+    },
+    {
+      "start": 75.5,
+      "end": 77.5,
+      "text": " so one variable cannot have two values",
+      "chunk_id": 37
+    },
+    {
+      "start": 77.5,
+      "end": 79.5,
+      "text": " so the answer to this will be",
+      "chunk_id": 38
+    },
+    {
+      "start": 79.5,
+      "end": 81.5,
+      "text": " cannot be determined",
+      "chunk_id": 39
+    },
+    {
+      "start": 81.5,
+      "end": 83.5,
+      "text": " ok, if there was only one value",
+      "chunk_id": 40
+    },
+    {
+      "start": 83.5,
+      "end": 85.5,
+      "text": " then our answer would be the same",
+      "chunk_id": 41
+    },
+    {
+      "start": 85.5,
+      "end": 87.5,
+      "text": " but sometimes it happens that",
+      "chunk_id": 42
+    },
+    {
+      "start": 87.5,
+      "end": 89.5,
+      "text": " they give questions to mislead you",
+      "chunk_id": 43
+    },
+    {
+      "start": 89.5,
+      "end": 91.5,
+      "text": " you have taken out one value, you have left one",
+      "chunk_id": 44
+    },
+    {
+      "start": 91.5,
+      "end": 93.5,
+      "text": " and your answer is wrong, right?",
+      "chunk_id": 45
+    },
+    {
+      "start": 93.5,
+      "end": 95.5,
+      "text": " so you have to find the value, if the value is",
+      "chunk_id": 46
+    },
+    {
+      "start": 95.5,
+      "end": 97.5,
+      "text": " different from any element then",
+      "chunk_id": 47
+    },
+    {
+      "start": 97.5,
+      "end": 99.5,
+      "text": " it cannot be determined, right?",
+      "chunk_id": 48
+    },
+    {
+      "start": 99.5,
+      "end": 101.5,
+      "text": " next question",
+      "chunk_id": 49
+    },
+    {
+      "start": 101.5,
+      "end": 103.5,
+      "text": " this is a theoretical question, let's see what to do",
+      "chunk_id": 50
+    },
+    {
+      "start": 103.5,
+      "end": 105.5,
+      "text": " it is written",
+      "chunk_id": 51
+    },
+    {
+      "start": 105.5,
+      "end": 107.5,
+      "text": " of three schools",
+      "chunk_id": 52
+    },
+    {
+      "start": 107.5,
+      "end": 109.5,
+      "text": " this is a school",
+      "chunk_id": 53
+    },
+    {
+      "start": 109.5,
+      "end": 111.5,
+      "text": " ABC organized an exhibition in their locality",
+      "chunk_id": 54
+    },
+    {
+      "start": 111.5,
+      "end": 113.5,
+      "text": " where they sold paper bags, scrap books",
+      "chunk_id": 55
+    },
+    {
+      "start": 113.5,
+      "end": 115.5,
+      "text": " and pastels",
+      "chunk_id": 56
+    },
+    {
+      "start": 115.5,
+      "end": 117.5,
+      "text": " so first they took paper bag",
+      "chunk_id": 57
+    },
+    {
+      "start": 117.5,
+      "end": 119.5,
+      "text": " scrap book",
+      "chunk_id": 58
+    },
+    {
+      "start": 119.5,
+      "end": 121.5,
+      "text": " and one more",
+      "chunk_id": 59
+    },
+    {
+      "start": 121.5,
+      "end": 123.5,
+      "text": " pastel sheet",
+      "chunk_id": 60
+    },
+    {
+      "start": 123.5,
+      "end": 125.5,
+      "text": " ok",
+      "chunk_id": 61
+    },
+    {
+      "start": 125.5,
+      "end": 127.5,
+      "text": " made by them using recycling paper",
+      "chunk_id": 62
+    },
+    {
+      "start": 127.5,
+      "end": 129.5,
+      "text": " at the rate of",
+      "chunk_id": 63
+    },
+    {
+      "start": 129.5,
+      "end": 131.5,
+      "text": " 20, 15",
+      "chunk_id": 64
+    },
+    {
+      "start": 131.5,
+      "end": 133.5,
+      "text": " and 5 per week",
+      "chunk_id": 65
+    },
+    {
+      "start": 133.5,
+      "end": 135.5,
+      "text": " school A",
+      "chunk_id": 66
+    },
+    {
+      "start": 135.5,
+      "end": 137.5,
+      "text": " made 25 paper bags, 12 scrap books",
+      "chunk_id": 67
+    },
+    {
+      "start": 137.5,
+      "end": 139.5,
+      "text": " and 34 pastel sheets",
+      "chunk_id": 68
+    },
+    {
+      "start": 139.5,
+      "end": 141.5,
+      "text": " school B made 22 paper bags",
+      "chunk_id": 69
+    },
+    {
+      "start": 141.5,
+      "end": 143.5,
+      "text": " 15 scrap books and 28",
+      "chunk_id": 70
+    },
+    {
+      "start": 143.5,
+      "end": 145.5,
+      "text": " pastel sheets and school C made",
+      "chunk_id": 71
+    },
+    {
+      "start": 145.5,
+      "end": 147.5,
+      "text": " 26 paper bags",
+      "chunk_id": 72
+    },
+    {
+      "start": 147.5,
+      "end": 149.5,
+      "text": " 18 scrap books and 36",
+      "chunk_id": 73
+    },
+    {
+      "start": 149.5,
+      "end": 151.5,
+      "text": " using matrices find the total amount raised by",
+      "chunk_id": 74
+    },
+    {
+      "start": 151.5,
+      "end": 153.5,
+      "text": " each school, I have to find the total amount",
+      "chunk_id": 75
+    },
+    {
+      "start": 153.5,
+      "end": 155.5,
+      "text": " so you remember this",
+      "chunk_id": 76
+    },
+    {
+      "start": 155.5,
+      "end": 157.5,
+      "text": " whenever you have to find the total amount from matrices",
+      "chunk_id": 77
+    },
+    {
+      "start": 157.5,
+      "end": 159.5,
+      "text": " then you have to make two types of matrices",
+      "chunk_id": 78
+    },
+    {
+      "start": 159.5,
+      "end": 161.5,
+      "text": " one is of quantity",
+      "chunk_id": 79
+    },
+    {
+      "start": 163.5,
+      "end": 165.5,
+      "text": " and one is of rate",
+      "chunk_id": 80
+    },
+    {
+      "start": 165.5,
+      "end": 167.5,
+      "text": " so remember this that quantity matrices will be",
+      "chunk_id": 81
+    },
+    {
+      "start": 167.5,
+      "end": 169.5,
+      "text": " horizontal matrices",
+      "chunk_id": 82
+    },
+    {
+      "start": 169.5,
+      "end": 171.5,
+      "text": " and vertical matrices will be of rate",
+      "chunk_id": 83
+    },
+    {
+      "start": 171.5,
+      "end": 173.5,
+      "text": " this is not a fixed rule",
+      "chunk_id": 84
+    },
+    {
+      "start": 173.5,
+      "end": 175.5,
+      "text": " but you will get the answer",
+      "chunk_id": 85
+    },
+    {
+      "start": 175.5,
+      "end": 177.5,
+      "text": " you will get a system to solve this",
+      "chunk_id": 86
+    },
+    {
+      "start": 177.5,
+      "end": 179.5,
+      "text": " you have to do that",
+      "chunk_id": 87
+    },
+    {
+      "start": 179.5,
+      "end": 181.5,
+      "text": " so first I told you that matrices are of quantity",
+      "chunk_id": 88
+    },
+    {
+      "start": 181.5,
+      "end": 183.5,
+      "text": " so these are my quantities",
+      "chunk_id": 89
+    },
+    {
+      "start": 183.5,
+      "end": 185.5,
+      "text": " so this is school A, school B, school C",
+      "chunk_id": 90
+    },
+    {
+      "start": 185.5,
+      "end": 187.5,
+      "text": " so my matrix is 25",
+      "chunk_id": 91
+    },
+    {
+      "start": 187.5,
+      "end": 189.5,
+      "text": " 12, 34",
+      "chunk_id": 92
+    },
+    {
+      "start": 189.5,
+      "end": 191.5,
+      "text": " 22, 15",
+      "chunk_id": 93
+    },
+    {
+      "start": 191.5,
+      "end": 193.5,
+      "text": " and 28",
+      "chunk_id": 94
+    },
+    {
+      "start": 193.5,
+      "end": 195.5,
+      "text": " 26, 18 and 36",
+      "chunk_id": 95
+    },
+    {
+      "start": 195.5,
+      "end": 197.5,
+      "text": " so these are my quantity matrices",
+      "chunk_id": 96
+    },
+    {
+      "start": 197.5,
+      "end": 199.5,
+      "text": " how much is the rate?",
+      "chunk_id": 97
+    },
+    {
+      "start": 199.5,
+      "end": 201.5,
+      "text": " 20, 15 and 5",
+      "chunk_id": 98
+    },
+    {
+      "start": 201.5,
+      "end": 203.5,
+      "text": " so I have 20, 15 and 5",
+      "chunk_id": 99
+    },
+    {
+      "start": 203.5,
+      "end": 205.5,
+      "text": " so you have to multiply these",
+      "chunk_id": 100
+    },
+    {
+      "start": 205.5,
+      "end": 207.5,
+      "text": " I have taken this matrix as A",
+      "chunk_id": 101
+    },
+    {
+      "start": 207.5,
+      "end": 209.5,
+      "text": " and this as B",
+      "chunk_id": 102
+    },
+    {
+      "start": 209.5,
+      "end": 211.5,
+      "text": " so I have to find A into B",
+      "chunk_id": 103
+    },
+    {
+      "start": 211.5,
+      "end": 213.5,
+      "text": " so let's find A into B",
+      "chunk_id": 104
+    },
+    {
+      "start": 213.5,
+      "end": 215.5,
+      "text": " so let's multiply this",
+      "chunk_id": 105
+    },
+    {
+      "start": 215.5,
+      "end": 217.5,
+      "text": " 25 into 20 is 500",
+      "chunk_id": 106
+    },
+    {
+      "start": 217.5,
+      "end": 219.5,
+      "text": " 12 into 15 is 180",
+      "chunk_id": 107
+    },
+    {
+      "start": 219.5,
+      "end": 221.5,
+      "text": " 34 into 5 is 170",
+      "chunk_id": 108
+    },
+    {
+      "start": 221.5,
+      "end": 223.5,
+      "text": " so we will add these",
+      "chunk_id": 109
+    },
+    {
+      "start": 223.5,
+      "end": 225.5,
+      "text": " similarly we will multiply this",
+      "chunk_id": 110
+    },
+    {
+      "start": 225.5,
+      "end": 227.5,
+      "text": " so this quantity will be of school A",
+      "chunk_id": 111
+    },
+    {
+      "start": 227.5,
+      "end": 229.5,
+      "text": " this quantity will be of school B",
+      "chunk_id": 112
+    },
+    {
+      "start": 229.5,
+      "end": 231.5,
+      "text": " and this quantity will be of school C",
+      "chunk_id": 113
+    },
+    {
+      "start": 231.5,
+      "end": 233.5,
+      "text": " and this is asking us",
+      "chunk_id": 114
+    },
+    {
+      "start": 233.5,
+      "end": 235.5,
+      "text": " how much money each school has saved",
+      "chunk_id": 115
+    },
+    {
+      "start": 235.5,
+      "end": 237.5,
+      "text": " ok",
+      "chunk_id": 116
+    },
+    {
+      "start": 237.5,
+      "end": 239.5,
+      "text": " next",
+      "chunk_id": 117
+    },
+    {
+      "start": 239.5,
+      "end": 241.5,
+      "text": " now it is written",
+      "chunk_id": 118
+    },
+    {
+      "start": 241.5,
+      "end": 243.5,
+      "text": " I have 5 matrices",
+      "chunk_id": 119
+    },
+    {
+      "start": 243.5,
+      "end": 245.5,
+      "text": " X, Y, Z, W, P",
+      "chunk_id": 120
+    },
+    {
+      "start": 245.5,
+      "end": 247.5,
+      "text": " their order",
+      "chunk_id": 121
+    },
+    {
+      "start": 247.5,
+      "end": 249.5,
+      "text": " this is of X, Y, Z",
+      "chunk_id": 122
+    },
+    {
+      "start": 249.5,
+      "end": 251.5,
+      "text": " this is of W and this is of P",
+      "chunk_id": 123
+    },
+    {
+      "start": 251.5,
+      "end": 253.5,
+      "text": " I have to tell you that",
+      "chunk_id": 124
+    },
+    {
+      "start": 253.5,
+      "end": 255.5,
+      "text": " restriction on N, K and P",
+      "chunk_id": 125
+    },
+    {
+      "start": 255.5,
+      "end": 257.5,
+      "text": " so that P, Y plus W, Y are defined",
+      "chunk_id": 126
+    },
+    {
+      "start": 257.5,
+      "end": 259.5,
+      "text": " now these two questions are theoretical",
+      "chunk_id": 127
+    },
+    {
+      "start": 259.5,
+      "end": 261.5,
+      "text": " so what kind of questions are these",
+      "chunk_id": 128
+    },
+    {
+      "start": 261.5,
+      "end": 263.5,
+      "text": " so P, Y plus W, Y are defined",
+      "chunk_id": 129
+    },
+    {
+      "start": 263.5,
+      "end": 265.5,
+      "text": " now what is the meaning of defined",
+      "chunk_id": 130
+    },
+    {
+      "start": 265.5,
+      "end": 267.5,
+      "text": " let me explain",
+      "chunk_id": 131
+    },
+    {
+      "start": 267.5,
+      "end": 269.5,
+      "text": " I have written P's order as P",
+      "chunk_id": 132
+    },
+    {
+      "start": 269.5,
+      "end": 271.5,
+      "text": " P into K",
+      "chunk_id": 133
+    },
+    {
+      "start": 271.5,
+      "end": 273.5,
+      "text": " Y's order is 3 into K",
+      "chunk_id": 134
+    },
+    {
+      "start": 275.5,
+      "end": 277.5,
+      "text": " W's order is N into 3",
+      "chunk_id": 135
+    },
+    {
+      "start": 279.5,
+      "end": 281.5,
+      "text": " and Y's order is 3 into K",
+      "chunk_id": 136
+    },
+    {
+      "start": 281.5,
+      "end": 283.5,
+      "text": " you must have read in the matrix",
+      "chunk_id": 137
+    },
+    {
+      "start": 283.5,
+      "end": 285.5,
+      "text": " whenever we want to multiply two matrices",
+      "chunk_id": 138
+    },
+    {
+      "start": 285.5,
+      "end": 287.5,
+      "text": " then first number of columns",
+      "chunk_id": 139
+    },
+    {
+      "start": 287.5,
+      "end": 289.5,
+      "text": " should be equal to",
+      "chunk_id": 140
+    },
+    {
+      "start": 289.5,
+      "end": 291.5,
+      "text": " number of rows of second matrices",
+      "chunk_id": 141
+    },
+    {
+      "start": 291.5,
+      "end": 293.5,
+      "text": " it means",
+      "chunk_id": 142
+    },
+    {
+      "start": 293.5,
+      "end": 295.5,
+      "text": " these middle ones should be equal",
+      "chunk_id": 143
+    },
+    {
+      "start": 295.5,
+      "end": 297.5,
+      "text": " we can multiply two matrices",
+      "chunk_id": 144
+    },
+    {
+      "start": 297.5,
+      "end": 299.5,
+      "text": " only then",
+      "chunk_id": 145
+    },
+    {
+      "start": 299.5,
+      "end": 301.5,
+      "text": " what is meant by defined",
+      "chunk_id": 146
+    },
+    {
+      "start": 301.5,
+      "end": 303.5,
+      "text": " we can subtract this and this",
+      "chunk_id": 147
+    },
+    {
+      "start": 303.5,
+      "end": 305.5,
+      "text": " and can also add them",
+      "chunk_id": 148
+    },
+    {
+      "start": 305.5,
+      "end": 307.5,
+      "text": " ok",
+      "chunk_id": 149
+    },
+    {
+      "start": 307.5,
+      "end": 309.5,
+      "text": " so you understand",
+      "chunk_id": 150
+    },
+    {
+      "start": 309.5,
+      "end": 311.5,
+      "text": " now I am multiplying",
+      "chunk_id": 151
+    },
+    {
+      "start": 311.5,
+      "end": 313.5,
+      "text": " first order is M into N",
+      "chunk_id": 152
+    },
+    {
+      "start": 313.5,
+      "end": 315.5,
+      "text": " and second order is N into K",
+      "chunk_id": 153
+    },
+    {
+      "start": 315.5,
+      "end": 317.5,
+      "text": " these two should be equal",
+      "chunk_id": 154
+    },
+    {
+      "start": 317.5,
+      "end": 319.5,
+      "text": " if not then we can not multiply the matrix",
+      "chunk_id": 155
+    },
+    {
+      "start": 319.5,
+      "end": 321.5,
+      "text": " and after multiplying",
+      "chunk_id": 156
+    },
+    {
+      "start": 321.5,
+      "end": 323.5,
+      "text": " the order will be of M into K",
+      "chunk_id": 157
+    },
+    {
+      "start": 323.5,
+      "end": 325.5,
+      "text": " so my K and 3 should be equal",
+      "chunk_id": 158
+    },
+    {
+      "start": 325.5,
+      "end": 327.5,
+      "text": " it means my K value is 3",
+      "chunk_id": 159
+    },
+    {
+      "start": 327.5,
+      "end": 329.5,
+      "text": " now when this order will be",
+      "chunk_id": 160
+    },
+    {
+      "start": 329.5,
+      "end": 331.5,
+      "text": " P into K",
+      "chunk_id": 161
+    },
+    {
+      "start": 331.5,
+      "end": 333.5,
+      "text": " this and this order will be",
+      "chunk_id": 162
+    },
+    {
+      "start": 333.5,
+      "end": 335.5,
+      "text": " this is equal",
+      "chunk_id": 163
+    },
+    {
+      "start": 335.5,
+      "end": 337.5,
+      "text": " this will be N into K",
+      "chunk_id": 164
+    },
+    {
+      "start": 337.5,
+      "end": 339.5,
+      "text": " so we have to add these two matrices",
+      "chunk_id": 165
+    },
+    {
+      "start": 339.5,
+      "end": 341.5,
+      "text": " you must have read",
+      "chunk_id": 166
+    },
+    {
+      "start": 341.5,
+      "end": 343.5,
+      "text": " whenever we add or subtract two matrices",
+      "chunk_id": 167
+    },
+    {
+      "start": 343.5,
+      "end": 345.5,
+      "text": " then their order should be same",
+      "chunk_id": 168
+    },
+    {
+      "start": 345.5,
+      "end": 347.5,
+      "text": " otherwise we can not add or subtract",
+      "chunk_id": 169
+    },
+    {
+      "start": 347.5,
+      "end": 349.5,
+      "text": " so when I saw this order",
+      "chunk_id": 170
+    },
+    {
+      "start": 349.5,
+      "end": 351.5,
+      "text": " then this is this order and this is this order",
+      "chunk_id": 171
+    },
+    {
+      "start": 351.5,
+      "end": 353.5,
+      "text": " and I have to add",
+      "chunk_id": 172
+    },
+    {
+      "start": 353.5,
+      "end": 355.5,
+      "text": " this element should be equal to this",
+      "chunk_id": 173
+    },
+    {
+      "start": 355.5,
+      "end": 357.5,
+      "text": " and this element should be equal to this",
+      "chunk_id": 174
+    },
+    {
+      "start": 357.5,
+      "end": 359.5,
+      "text": " then it can be added",
+      "chunk_id": 175
+    },
+    {
+      "start": 359.5,
+      "end": 361.5,
+      "text": " so P is equal to N",
+      "chunk_id": 176
+    },
+    {
+      "start": 361.5,
+      "end": 363.5,
+      "text": " and K is equal to K",
+      "chunk_id": 177
+    },
+    {
+      "start": 363.5,
+      "end": 365.5,
+      "text": " so P is equal to N and K is equal to 3",
+      "chunk_id": 178
+    },
+    {
+      "start": 365.5,
+      "end": 367.5,
+      "text": " so this is the second part",
+      "chunk_id": 179
+    },
+    {
+      "start": 367.5,
+      "end": 369.5,
+      "text": " if N and P is equal",
+      "chunk_id": 180
+    },
+    {
+      "start": 369.5,
+      "end": 371.5,
+      "text": " then what will be the order of this",
+      "chunk_id": 181
+    },
+    {
+      "start": 371.5,
+      "end": 373.5,
+      "text": " so let me ask you one thing",
+      "chunk_id": 182
+    },
+    {
+      "start": 373.5,
+      "end": 375.5,
+      "text": " suppose in any matrix",
+      "chunk_id": 183
+    },
+    {
+      "start": 375.5,
+      "end": 377.5,
+      "text": " there is an order of 3 into 2",
+      "chunk_id": 184
+    },
+    {
+      "start": 377.5,
+      "end": 379.5,
+      "text": " and I multiplied it with 5",
+      "chunk_id": 185
+    },
+    {
+      "start": 379.5,
+      "end": 381.5,
+      "text": " so 5 will be multiplied in all",
+      "chunk_id": 186
+    },
+    {
+      "start": 381.5,
+      "end": 383.5,
+      "text": " but will there be any change in the order",
+      "chunk_id": 187
+    },
+    {
+      "start": 383.5,
+      "end": 385.5,
+      "text": " no, the order will be same",
+      "chunk_id": 188
+    },
+    {
+      "start": 385.5,
+      "end": 387.5,
+      "text": " so similarly if the order of X is 2 into N",
+      "chunk_id": 189
+    },
+    {
+      "start": 387.5,
+      "end": 389.5,
+      "text": " so if the order of X is 2 into N",
+      "chunk_id": 190
+    },
+    {
+      "start": 389.5,
+      "end": 391.5,
+      "text": " then the order of 7X",
+      "chunk_id": 191
+    },
+    {
+      "start": 391.5,
+      "end": 393.5,
+      "text": " will also be 2 into N",
+      "chunk_id": 192
+    },
+    {
+      "start": 393.5,
+      "end": 395.5,
+      "text": " and the order of Z is 2 into P",
+      "chunk_id": 193
+    },
+    {
+      "start": 395.5,
+      "end": 397.5,
+      "text": " so the order of 5Z",
+      "chunk_id": 194
+    },
+    {
+      "start": 397.5,
+      "end": 399.5,
+      "text": " will also be 2 into P",
+      "chunk_id": 195
+    },
+    {
+      "start": 399.5,
+      "end": 401.5,
+      "text": " and I have to minus",
+      "chunk_id": 196
+    },
+    {
+      "start": 401.5,
+      "end": 403.5,
+      "text": " so the order should be same",
+      "chunk_id": 197
+    },
+    {
+      "start": 403.5,
+      "end": 405.5,
+      "text": " and I have been given N and P",
+      "chunk_id": 198
+    },
+    {
+      "start": 405.5,
+      "end": 407.5,
+      "text": " so it is confirmed that",
+      "chunk_id": 199
+    },
+    {
+      "start": 407.5,
+      "end": 409.5,
+      "text": " this is 2, 2 and N and P",
+      "chunk_id": 200
+    },
+    {
+      "start": 409.5,
+      "end": 411.5,
+      "text": " it means both the order is equal",
+      "chunk_id": 201
+    },
+    {
+      "start": 411.5,
+      "end": 413.5,
+      "text": " now when I will minus",
+      "chunk_id": 202
+    },
+    {
+      "start": 413.5,
+      "end": 415.5,
+      "text": " two matrices of same order",
+      "chunk_id": 203
+    },
+    {
+      "start": 415.5,
+      "end": 417.5,
+      "text": " so the order will be same",
+      "chunk_id": 204
+    },
+    {
+      "start": 417.5,
+      "end": 419.5,
+      "text": " so the order of this will be",
+      "chunk_id": 205
+    },
+    {
+      "start": 419.5,
+      "end": 421.5,
+      "text": " 2 into N or 2 into P",
+      "chunk_id": 206
+    },
+    {
+      "start": 421.5,
+      "end": 423.5,
+      "text": " it means both the answer is correct",
+      "chunk_id": 207
+    },
+    {
+      "start": 423.5,
+      "end": 425.5,
+      "text": " if there is multiple choice",
+      "chunk_id": 208
+    },
+    {
+      "start": 425.5,
+      "end": 427.5,
+      "text": " then write this in this option",
+      "chunk_id": 209
+    },
+    {
+      "start": 427.5,
+      "end": 429.5,
+      "text": " and if there is no option",
+      "chunk_id": 210
+    },
+    {
+      "start": 429.5,
+      "end": 431.5,
+      "text": " then write both because N and P are equal",
+      "chunk_id": 211
+    },
+    {
+      "start": 431.5,
+      "end": 433.5,
+      "text": " next",
+      "chunk_id": 212
+    },
+    {
+      "start": 433.5,
+      "end": 435.5,
+      "text": " there are two equations",
+      "chunk_id": 213
+    },
+    {
+      "start": 435.5,
+      "end": 437.5,
+      "text": " A and B",
+      "chunk_id": 214
+    },
+    {
+      "start": 437.5,
+      "end": 439.5,
+      "text": " so I have to solve this equation",
+      "chunk_id": 215
+    },
+    {
+      "start": 439.5,
+      "end": 441.5,
+      "text": " so we will solve it with simple algebraic method",
+      "chunk_id": 216
+    },
+    {
+      "start": 441.5,
+      "end": 443.5,
+      "text": " like we used to do in 10th class",
+      "chunk_id": 217
+    },
+    {
+      "start": 443.5,
+      "end": 445.5,
+      "text": " we will use elimination method",
+      "chunk_id": 218
+    },
+    {
+      "start": 445.5,
+      "end": 447.5,
+      "text": " so here 2A is there",
+      "chunk_id": 219
+    },
+    {
+      "start": 447.5,
+      "end": 449.5,
+      "text": " so I will multiply it with 2",
+      "chunk_id": 220
+    },
+    {
+      "start": 449.5,
+      "end": 451.5,
+      "text": " so I will write it as it is",
+      "chunk_id": 221
+    },
+    {
+      "start": 451.5,
+      "end": 453.5,
+      "text": " A plus 2B is equal to",
+      "chunk_id": 222
+    },
+    {
+      "start": 453.5,
+      "end": 455.5,
+      "text": " 1, 2, 6, minus 3",
+      "chunk_id": 223
+    },
+    {
+      "start": 455.5,
+      "end": 457.5,
+      "text": " and I multiplied it with 2",
+      "chunk_id": 224
+    },
+    {
+      "start": 457.5,
+      "end": 459.5,
+      "text": " so it is 4A minus 2B",
+      "chunk_id": 225
+    },
+    {
+      "start": 459.5,
+      "end": 461.5,
+      "text": " is equal to 4 minus 2",
+      "chunk_id": 226
+    },
+    {
+      "start": 461.5,
+      "end": 463.5,
+      "text": " 4 minus 2",
+      "chunk_id": 227
+    },
+    {
+      "start": 463.5,
+      "end": 465.5,
+      "text": " remember that when you multiply",
+      "chunk_id": 228
+    },
+    {
+      "start": 465.5,
+      "end": 467.5,
+      "text": " then you have to multiply it with 2",
+      "chunk_id": 229
+    },
+    {
+      "start": 467.5,
+      "end": 469.5,
+      "text": " so I have to multiply it with 2",
+      "chunk_id": 230
+    },
+    {
+      "start": 469.5,
+      "end": 471.5,
+      "text": " so I will divide it with 5",
+      "chunk_id": 231
+    },
+    {
+      "start": 471.5,
+      "end": 473.5,
+      "text": " so it will be 5, 0, 10 and minus 5",
+      "chunk_id": 232
+    },
+    {
+      "start": 473.5,
+      "end": 475.5,
+      "text": " so I will divide it with 5",
+      "chunk_id": 233
+    },
+    {
+      "start": 475.5,
+      "end": 477.5,
+      "text": " so it will be 1, 0, 2, minus 1",
+      "chunk_id": 234
+    },
+    {
+      "start": 477.5,
+      "end": 479.5,
+      "text": " so you have to put only one value",
+      "chunk_id": 235
+    },
+    {
+      "start": 479.5,
+      "end": 481.5,
+      "text": " so either you put it here or here",
+      "chunk_id": 236
+    },
+    {
+      "start": 481.5,
+      "end": 483.5,
+      "text": " as you wish",
+      "chunk_id": 237
+    },
+    {
+      "start": 483.5,
+      "end": 485.5,
+      "text": " so 1, 0, 2, minus 1",
+      "chunk_id": 238
+    },
+    {
+      "start": 485.5,
+      "end": 487.5,
+      "text": " plus 2B is equal to",
+      "chunk_id": 239
+    },
+    {
+      "start": 487.5,
+      "end": 489.5,
+      "text": " 1, 2, 6, minus 3",
+      "chunk_id": 240
+    },
+    {
+      "start": 489.5,
+      "end": 491.5,
+      "text": " so we will take it as minus",
+      "chunk_id": 241
+    },
+    {
+      "start": 491.5,
+      "end": 493.5,
+      "text": " so my 2B value will be",
+      "chunk_id": 242
+    },
+    {
+      "start": 493.5,
+      "end": 495.5,
+      "text": " 1, 2, 6, minus 3",
+      "chunk_id": 243
+    },
+    {
+      "start": 495.5,
+      "end": 497.5,
+      "text": " minus",
+      "chunk_id": 244
+    },
+    {
+      "start": 497.5,
+      "end": 499.5,
+      "text": " 1, 0, 2, minus 1",
+      "chunk_id": 245
+    },
+    {
+      "start": 499.5,
+      "end": 501.5,
+      "text": " so we will minus it",
+      "chunk_id": 246
+    },
+    {
+      "start": 501.5,
+      "end": 503.5,
+      "text": " 0, 2 and here comes 4",
+      "chunk_id": 247
+    },
+    {
+      "start": 503.5,
+      "end": 505.5,
+      "text": " and here comes minus 2",
+      "chunk_id": 248
+    },
+    {
+      "start": 505.5,
+      "end": 507.5,
+      "text": " so my value is 2B",
+      "chunk_id": 249
+    },
+    {
+      "start": 507.5,
+      "end": 509.5,
+      "text": " so we will take B and divide it with 2",
+      "chunk_id": 250
+    },
+    {
+      "start": 509.5,
+      "end": 511.5,
+      "text": " so 0, 1, 2, minus 1",
+      "chunk_id": 251
+    },
+    {
+      "start": 511.5,
+      "end": 513.5,
+      "text": " and both the matrices are same",
+      "chunk_id": 252
+    },
+    {
+      "start": 513.5,
+      "end": 515.5,
+      "text": " right? so it happens sometimes",
+      "chunk_id": 253
+    },
+    {
+      "start": 515.5,
+      "end": 517.5,
+      "text": " so this is my A and B value",
+      "chunk_id": 254
+    },
+    {
+      "start": 517.5,
+      "end": 519.5,
+      "text": " so it will be like this",
+      "chunk_id": 255
+    },
+    {
+      "start": 519.5,
+      "end": 521.5,
+      "text": " sometimes it will be 2A plus 3B",
+      "chunk_id": 256
+    },
+    {
+      "start": 521.5,
+      "end": 523.5,
+      "text": " so you have to use elimination method",
+      "chunk_id": 257
+    },
+    {
+      "start": 523.5,
+      "end": 525.5,
+      "text": " and it will be solved easily",
+      "chunk_id": 258
+    },
+    {
+      "start": 525.5,
+      "end": 527.5,
+      "text": " next question",
+      "chunk_id": 259
+    },
+    {
+      "start": 527.5,
+      "end": 529.5,
+      "text": " this is a very important question",
+      "chunk_id": 260
+    },
+    {
+      "start": 529.5,
+      "end": 531.5,
+      "text": " so it is simple that this matrix is 2 by 2",
+      "chunk_id": 261
+    },
+    {
+      "start": 531.5,
+      "end": 533.5,
+      "text": " and this matrix is 2 by 2",
+      "chunk_id": 262
+    },
+    {
+      "start": 533.5,
+      "end": 535.5,
+      "text": " so we have to find the order of matrices",
+      "chunk_id": 263
+    },
+    {
+      "start": 535.5,
+      "end": 537.5,
+      "text": " so it is obvious that it will be 2 by 2",
+      "chunk_id": 264
+    },
+    {
+      "start": 537.5,
+      "end": 539.5,
+      "text": " because if we multiply 2 by 2 by 2",
+      "chunk_id": 265
+    },
+    {
+      "start": 539.5,
+      "end": 541.5,
+      "text": " so the order will be 2 by 2",
+      "chunk_id": 266
+    },
+    {
+      "start": 541.5,
+      "end": 543.5,
+      "text": " but in such questions",
+      "chunk_id": 267
+    },
+    {
+      "start": 543.5,
+      "end": 545.5,
+      "text": " it is important to find the order of x",
+      "chunk_id": 268
+    },
+    {
+      "start": 545.5,
+      "end": 547.5,
+      "text": " no problem, it is easy",
+      "chunk_id": 269
+    },
+    {
+      "start": 547.5,
+      "end": 549.5,
+      "text": " so what I have to do is",
+      "chunk_id": 270
+    },
+    {
+      "start": 549.5,
+      "end": 551.5,
+      "text": " I have to assume this as ABCD",
+      "chunk_id": 271
+    },
+    {
+      "start": 551.5,
+      "end": 553.5,
+      "text": " I have assumed ABCD",
+      "chunk_id": 272
+    },
+    {
+      "start": 553.5,
+      "end": 555.5,
+      "text": " and multiplied it",
+      "chunk_id": 273
+    },
+    {
+      "start": 555.5,
+      "end": 557.5,
+      "text": " and after multiplying it",
+      "chunk_id": 274
+    },
+    {
+      "start": 557.5,
+      "end": 559.5,
+      "text": " it becomes A minus 4C",
+      "chunk_id": 275
+    },
+    {
+      "start": 559.5,
+      "end": 561.5,
+      "text": " it becomes B minus 4D",
+      "chunk_id": 276
+    },
+    {
+      "start": 561.5,
+      "end": 563.5,
+      "text": " and it becomes 3A minus 2C",
+      "chunk_id": 277
+    },
+    {
+      "start": 563.5,
+      "end": 565.5,
+      "text": " and it becomes 3B minus 2D",
+      "chunk_id": 278
+    },
+    {
+      "start": 565.5,
+      "end": 567.5,
+      "text": " and I have given the equal to",
+      "chunk_id": 279
+    },
+    {
+      "start": 567.5,
+      "end": 569.5,
+      "text": " and",
+      "chunk_id": 280
+    },
+    {
+      "start": 569.5,
+      "end": 571.5,
+      "text": " now you have to compare",
+      "chunk_id": 281
+    },
+    {
+      "start": 571.5,
+      "end": 573.5,
+      "text": " it will be 4 questions",
+      "chunk_id": 282
+    },
+    {
+      "start": 573.5,
+      "end": 575.5,
+      "text": " first one will be A minus 4C equal to minus 16",
+      "chunk_id": 283
+    },
+    {
+      "start": 575.5,
+      "end": 577.5,
+      "text": " and second one will be 3A minus 2C",
+      "chunk_id": 284
+    },
+    {
+      "start": 577.5,
+      "end": 579.5,
+      "text": " is equal to 7",
+      "chunk_id": 285
+    },
+    {
+      "start": 579.5,
+      "end": 581.5,
+      "text": " after solving both of them",
+      "chunk_id": 286
+    },
+    {
+      "start": 581.5,
+      "end": 583.5,
+      "text": " you have to find the value of A and C",
+      "chunk_id": 287
+    },
+    {
+      "start": 583.5,
+      "end": 585.5,
+      "text": " I think you know this",
+      "chunk_id": 288
+    },
+    {
+      "start": 585.5,
+      "end": 587.5,
+      "text": " so I have to find one pair",
+      "chunk_id": 289
+    },
+    {
+      "start": 587.5,
+      "end": 589.5,
+      "text": " so I have to multiply it by 2",
+      "chunk_id": 290
+    },
+    {
+      "start": 589.5,
+      "end": 591.5,
+      "text": " sorry, I have to do it in this",
+      "chunk_id": 291
+    },
+    {
+      "start": 591.5,
+      "end": 593.5,
+      "text": " because I have to make 4C",
+      "chunk_id": 292
+    },
+    {
+      "start": 593.5,
+      "end": 595.5,
+      "text": " so I have to do it like this",
+      "chunk_id": 293
+    },
+    {
+      "start": 595.5,
+      "end": 597.5,
+      "text": " and it becomes 6A minus 4C",
+      "chunk_id": 294
+    },
+    {
+      "start": 597.5,
+      "end": 599.5,
+      "text": " is equal to 14",
+      "chunk_id": 295
+    },
+    {
+      "start": 599.5,
+      "end": 601.5,
+      "text": " let's minus both of them",
+      "chunk_id": 296
+    },
+    {
+      "start": 601.5,
+      "end": 603.5,
+      "text": " so I have changed the sign",
+      "chunk_id": 297
+    },
+    {
+      "start": 603.5,
+      "end": 605.5,
+      "text": " so it becomes minus 5A",
+      "chunk_id": 298
+    },
+    {
+      "start": 605.5,
+      "end": 607.5,
+      "text": " is equal to minus 30",
+      "chunk_id": 299
+    },
+    {
+      "start": 607.5,
+      "end": 609.5,
+      "text": " and it becomes 6",
+      "chunk_id": 300
+    },
+    {
+      "start": 609.5,
+      "end": 611.5,
+      "text": " so I will put A value of 6 here",
+      "chunk_id": 301
+    },
+    {
+      "start": 611.5,
+      "end": 613.5,
+      "text": " so it will become 2 questions",
+      "chunk_id": 302
+    },
+    {
+      "start": 613.5,
+      "end": 615.5,
+      "text": " so B minus 4D is equal to minus 6",
+      "chunk_id": 303
+    },
+    {
+      "start": 615.5,
+      "end": 617.5,
+      "text": " and 3B minus 2D is equal to 2",
+      "chunk_id": 304
+    },
+    {
+      "start": 617.5,
+      "end": 619.5,
+      "text": " similarly you will get the value of B and D",
+      "chunk_id": 305
+    },
+    {
+      "start": 619.5,
+      "end": 621.5,
+      "text": " and A, B, C, D will be the value of all",
+      "chunk_id": 306
+    },
+    {
+      "start": 621.5,
+      "end": 623.5,
+      "text": " if you want to put it here",
+      "chunk_id": 307
+    },
+    {
+      "start": 623.5,
+      "end": 625.5,
+      "text": " then your matrix will be X",
+      "chunk_id": 308
+    },
+    {
+      "start": 625.5,
+      "end": 627.5,
+      "text": " clear?",
+      "chunk_id": 309
+    },
+    {
+      "start": 627.5,
+      "end": 629.5,
+      "text": " let's take one more question",
+      "chunk_id": 310
+    },
+    {
+      "start": 629.5,
+      "end": 631.5,
+      "text": " this time I have to find A",
+      "chunk_id": 311
+    },
+    {
+      "start": 631.5,
+      "end": 633.5,
+      "text": " but this time I have to find the order",
+      "chunk_id": 312
+    },
+    {
+      "start": 633.5,
+      "end": 635.5,
+      "text": " I have to let it",
+      "chunk_id": 313
+    },
+    {
+      "start": 635.5,
+      "end": 637.5,
+      "text": " but I don't know the order",
+      "chunk_id": 314
+    },
+    {
+      "start": 637.5,
+      "end": 639.5,
+      "text": " so how much is the order of this?",
+      "chunk_id": 315
+    },
+    {
+      "start": 639.5,
+      "end": 641.5,
+      "text": " 3 into 2",
+      "chunk_id": 316
+    },
+    {
+      "start": 641.5,
+      "end": 643.5,
+      "text": " because there are 3 rows and 2 columns",
+      "chunk_id": 317
+    },
+    {
+      "start": 643.5,
+      "end": 645.5,
+      "text": " so let's assume that",
+      "chunk_id": 318
+    },
+    {
+      "start": 645.5,
+      "end": 647.5,
+      "text": " so I have told you that",
+      "chunk_id": 319
+    },
+    {
+      "start": 647.5,
+      "end": 649.5,
+      "text": " these two middle ones should be equal",
+      "chunk_id": 320
+    },
+    {
+      "start": 649.5,
+      "end": 651.5,
+      "text": " it means M value is 2",
+      "chunk_id": 321
+    },
+    {
+      "start": 651.5,
+      "end": 653.5,
+      "text": " now this and this order",
+      "chunk_id": 322
+    },
+    {
+      "start": 653.5,
+      "end": 655.5,
+      "text": " becomes this one",
+      "chunk_id": 323
+    },
+    {
+      "start": 655.5,
+      "end": 657.5,
+      "text": " it means this is 3, 3",
+      "chunk_id": 324
+    },
+    {
+      "start": 657.5,
+      "end": 659.5,
+      "text": " so this should be equal to N",
+      "chunk_id": 325
+    },
+    {
+      "start": 659.5,
+      "end": 661.5,
+      "text": " so N value is 3",
+      "chunk_id": 326
+    },
+    {
+      "start": 661.5,
+      "end": 663.5,
+      "text": " it means A order is 2 by 3",
+      "chunk_id": 327
+    },
+    {
+      "start": 663.5,
+      "end": 665.5,
+      "text": " means 2 rows and 3 columns",
+      "chunk_id": 328
+    },
+    {
+      "start": 665.5,
+      "end": 667.5,
+      "text": " so I have assumed A",
+      "chunk_id": 329
+    },
+    {
+      "start": 667.5,
+      "end": 669.5,
+      "text": " A, B, C, and X, Y, Z",
+      "chunk_id": 330
+    },
+    {
+      "start": 669.5,
+      "end": 671.5,
+      "text": " so there are 2 rows and 3 columns",
+      "chunk_id": 331
+    },
+    {
+      "start": 671.5,
+      "end": 673.5,
+      "text": " now you have to do",
+      "chunk_id": 332
+    },
+    {
+      "start": 673.5,
+      "end": 675.5,
+      "text": " now you have to do",
+      "chunk_id": 333
+    },
+    {
+      "start": 675.5,
+      "end": 677.5,
+      "text": " as I did in the first question",
+      "chunk_id": 334
+    },
+    {
+      "start": 677.5,
+      "end": 679.5,
+      "text": " multiply it by this",
+      "chunk_id": 335
+    },
+    {
+      "start": 679.5,
+      "end": 681.5,
+      "text": " so let's multiply",
+      "chunk_id": 336
+    },
+    {
+      "start": 681.5,
+      "end": 683.5,
+      "text": " first will be 2A minus X",
+      "chunk_id": 337
+    },
+    {
+      "start": 683.5,
+      "end": 685.5,
+      "text": " then 2B minus Y",
+      "chunk_id": 338
+    },
+    {
+      "start": 685.5,
+      "end": 687.5,
+      "text": " then 2C minus Z",
+      "chunk_id": 339
+    },
+    {
+      "start": 687.5,
+      "end": 689.5,
+      "text": " then 2A",
+      "chunk_id": 340
+    },
+    {
+      "start": 689.5,
+      "end": 691.5,
+      "text": " B",
+      "chunk_id": 341
+    },
+    {
+      "start": 691.5,
+      "end": 693.5,
+      "text": " C",
+      "chunk_id": 342
+    },
+    {
+      "start": 693.5,
+      "end": 695.5,
+      "text": " then 3A plus 4X",
+      "chunk_id": 343
+    },
+    {
+      "start": 695.5,
+      "end": 697.5,
+      "text": " 3B plus 4Y",
+      "chunk_id": 344
+    },
+    {
+      "start": 697.5,
+      "end": 699.5,
+      "text": " and",
+      "chunk_id": 345
+    },
+    {
+      "start": 699.5,
+      "end": 701.5,
+      "text": " 3C plus 4Z",
+      "chunk_id": 346
+    },
+    {
+      "start": 701.5,
+      "end": 703.5,
+      "text": " so I have to put A equal to",
+      "chunk_id": 347
+    },
+    {
+      "start": 703.5,
+      "end": 705.5,
+      "text": " of these matrices",
+      "chunk_id": 348
+    },
+    {
+      "start": 705.5,
+      "end": 707.5,
+      "text": " so you don't have to do anything",
+      "chunk_id": 349
+    },
+    {
+      "start": 707.5,
+      "end": 709.5,
+      "text": " you have to compare it",
+      "chunk_id": 350
+    },
+    {
+      "start": 709.5,
+      "end": 711.5,
+      "text": " so A value is 1",
+      "chunk_id": 351
+    },
+    {
+      "start": 711.5,
+      "end": 713.5,
+      "text": " B value is 2",
+      "chunk_id": 352
+    },
+    {
+      "start": 713.5,
+      "end": 715.5,
+      "text": " C value is 1",
+      "chunk_id": 353
+    },
+    {
+      "start": 715.5,
+      "end": 717.5,
+      "text": " B value is 2",
+      "chunk_id": 354
+    },
+    {
+      "start": 717.5,
+      "end": 719.5,
+      "text": " C value is 5",
+      "chunk_id": 355
+    },
+    {
+      "start": 719.5,
+      "end": 721.5,
+      "text": " so you have to put this value",
+      "chunk_id": 356
+    },
+    {
+      "start": 721.5,
+      "end": 723.5,
+      "text": " means 2A minus X",
+      "chunk_id": 357
+    },
+    {
+      "start": 723.5,
+      "end": 725.5,
+      "text": " equal to minus 1",
+      "chunk_id": 358
+    },
+    {
+      "start": 725.5,
+      "end": 727.5,
+      "text": " A value is 1",
+      "chunk_id": 359
+    },
+    {
+      "start": 727.5,
+      "end": 729.5,
+      "text": " so I have put A equal to 1",
+      "chunk_id": 360
+    },
+    {
+      "start": 729.5,
+      "end": 731.5,
+      "text": " 2 minus X is equal to minus 1",
+      "chunk_id": 361
+    },
+    {
+      "start": 731.5,
+      "end": 733.5,
+      "text": " X value is 3",
+      "chunk_id": 362
+    },
+    {
+      "start": 733.5,
+      "end": 735.5,
+      "text": " so we will get the value of all",
+      "chunk_id": 363
+    },
+    {
+      "start": 735.5,
+      "end": 737.5,
+      "text": " so I have got A, B, C, X, Y, Z",
+      "chunk_id": 364
+    },
+    {
+      "start": 737.5,
+      "end": 739.5,
+      "text": " so I will get A matrix",
+      "chunk_id": 365
+    },
+    {
+      "start": 739.5,
+      "end": 741.5,
+      "text": " blue clear",
+      "chunk_id": 366
+    },
+    {
+      "start": 741.5,
+      "end": 743.5,
+      "text": " next",
+      "chunk_id": 367
+    },
+    {
+      "start": 743.5,
+      "end": 745.5,
+      "text": " now what is symmetric and",
+      "chunk_id": 368
+    },
+    {
+      "start": 745.5,
+      "end": 747.5,
+      "text": " skew symmetric matrix",
+      "chunk_id": 369
+    },
+    {
+      "start": 747.5,
+      "end": 749.5,
+      "text": " when we transpose a matrix",
+      "chunk_id": 370
+    },
+    {
+      "start": 749.5,
+      "end": 751.5,
+      "text": " and when that transpose is equal to that",
+      "chunk_id": 371
+    },
+    {
+      "start": 751.5,
+      "end": 753.5,
+      "text": " then we call it symmetric matrix",
+      "chunk_id": 372
+    },
+    {
+      "start": 753.5,
+      "end": 755.5,
+      "text": " and when I transpose A",
+      "chunk_id": 373
+    },
+    {
+      "start": 755.5,
+      "end": 757.5,
+      "text": " it is minus A",
+      "chunk_id": 374
+    },
+    {
+      "start": 757.5,
+      "end": 759.5,
+      "text": " so this is the system",
+      "chunk_id": 375
+    },
+    {
+      "start": 759.5,
+      "end": 761.5,
+      "text": " if we do plus and",
+      "chunk_id": 376
+    },
+    {
+      "start": 761.5,
+      "end": 763.5,
+      "text": " transpose whole",
+      "chunk_id": 377
+    },
+    {
+      "start": 763.5,
+      "end": 765.5,
+      "text": " then it will be different",
+      "chunk_id": 378
+    },
+    {
+      "start": 765.5,
+      "end": 767.5,
+      "text": " but when we multiply",
+      "chunk_id": 379
+    },
+    {
+      "start": 767.5,
+      "end": 769.5,
+      "text": " then first C then B",
+      "chunk_id": 380
+    },
+    {
+      "start": 769.5,
+      "end": 771.5,
+      "text": " means order changes",
+      "chunk_id": 381
+    },
+    {
+      "start": 771.5,
+      "end": 773.5,
+      "text": " first comes third then second",
+      "chunk_id": 382
+    },
+    {
+      "start": 773.5,
+      "end": 775.5,
+      "text": " then first",
+      "chunk_id": 383
+    },
+    {
+      "start": 775.5,
+      "end": 777.5,
+      "text": " so this means A transpose is equal to A",
+      "chunk_id": 384
+    },
+    {
+      "start": 777.5,
+      "end": 779.5,
+      "text": " and B transpose is equal to B",
+      "chunk_id": 385
+    },
+    {
+      "start": 779.5,
+      "end": 781.5,
+      "text": " this is given",
+      "chunk_id": 386
+    },
+    {
+      "start": 781.5,
+      "end": 783.5,
+      "text": " and what I have to prove",
+      "chunk_id": 387
+    },
+    {
+      "start": 783.5,
+      "end": 785.5,
+      "text": " I have to show that AB minus BA is skew symmetric",
+      "chunk_id": 388
+    },
+    {
+      "start": 785.5,
+      "end": 787.5,
+      "text": " so I have assumed AB minus BA is X",
+      "chunk_id": 389
+    },
+    {
+      "start": 787.5,
+      "end": 789.5,
+      "text": " when I assumed AB minus BA is X",
+      "chunk_id": 390
+    },
+    {
+      "start": 789.5,
+      "end": 791.5,
+      "text": " then I have put transpose on both sides",
+      "chunk_id": 391
+    },
+    {
+      "start": 793.5,
+      "end": 795.5,
+      "text": " so AB is separated",
+      "chunk_id": 392
+    },
+    {
+      "start": 795.5,
+      "end": 797.5,
+      "text": " and BA is separated",
+      "chunk_id": 393
+    },
+    {
+      "start": 797.5,
+      "end": 799.5,
+      "text": " they are separated in plus and minus",
+      "chunk_id": 394
+    },
+    {
+      "start": 799.5,
+      "end": 801.5,
+      "text": " now AB is multiplied",
+      "chunk_id": 395
+    },
+    {
+      "start": 801.5,
+      "end": 803.5,
+      "text": " so it will be B transpose A transpose",
+      "chunk_id": 396
+    },
+    {
+      "start": 803.5,
+      "end": 805.5,
+      "text": " and it will be A transpose B transpose",
+      "chunk_id": 397
+    },
+    {
+      "start": 805.5,
+      "end": 807.5,
+      "text": " now I have A transpose A is equal to A",
+      "chunk_id": 398
+    },
+    {
+      "start": 807.5,
+      "end": 809.5,
+      "text": " B transpose B is equal to B",
+      "chunk_id": 399
+    },
+    {
+      "start": 809.5,
+      "end": 811.5,
+      "text": " so I have given B transpose as B",
+      "chunk_id": 400
+    },
+    {
+      "start": 811.5,
+      "end": 813.5,
+      "text": " and A transpose as A",
+      "chunk_id": 401
+    },
+    {
+      "start": 813.5,
+      "end": 815.5,
+      "text": " so I have A B minus B A",
+      "chunk_id": 402
+    },
+    {
+      "start": 815.5,
+      "end": 817.5,
+      "text": " this is X transpose",
+      "chunk_id": 403
+    },
+    {
+      "start": 817.5,
+      "end": 819.5,
+      "text": " and this is X",
+      "chunk_id": 404
+    },
+    {
+      "start": 819.5,
+      "end": 821.5,
+      "text": " it means X transpose is equal to minus X",
+      "chunk_id": 405
+    },
+    {
+      "start": 821.5,
+      "end": 823.5,
+      "text": " so X is my skew symmetric matrix",
+      "chunk_id": 406
+    },
+    {
+      "start": 823.5,
+      "end": 825.5,
+      "text": " it means this is skew symmetric matrix",
+      "chunk_id": 407
+    },
+    {
+      "start": 825.5,
+      "end": 827.5,
+      "text": " is it clear",
+      "chunk_id": 408
+    },
+    {
+      "start": 827.5,
+      "end": 829.5,
+      "text": " very good, let's move ahead",
+      "chunk_id": 409
+    },
+    {
+      "start": 829.5,
+      "end": 831.5,
+      "text": " prove that A is symmetric",
+      "chunk_id": 410
+    },
+    {
+      "start": 831.5,
+      "end": 833.5,
+      "text": " I have to prove that A is symmetric",
+      "chunk_id": 411
+    },
+    {
+      "start": 833.5,
+      "end": 835.5,
+      "text": " then this is symmetric",
+      "chunk_id": 412
+    },
+    {
+      "start": 835.5,
+      "end": 837.5,
+      "text": " if A is skew symmetric then this is skew symmetric",
+      "chunk_id": 413
+    },
+    {
+      "start": 837.5,
+      "end": 839.5,
+      "text": " means I have to prove that these matrices",
+      "chunk_id": 414
+    },
+    {
+      "start": 839.5,
+      "end": 841.5,
+      "text": " are depending on A",
+      "chunk_id": 415
+    },
+    {
+      "start": 871.5,
+      "end": 873.5,
+      "text": " so my X transpose will be",
+      "chunk_id": 416
+    },
+    {
+      "start": 873.5,
+      "end": 875.5,
+      "text": " B transpose AB",
+      "chunk_id": 417
+    },
+    {
+      "start": 875.5,
+      "end": 877.5,
+      "text": " it means X is symmetric",
+      "chunk_id": 418
+    },
+    {
+      "start": 877.5,
+      "end": 879.5,
+      "text": " because X transpose is equal to X",
+      "chunk_id": 419
+    },
+    {
+      "start": 879.5,
+      "end": 881.5,
+      "text": " now when I take case 2",
+      "chunk_id": 420
+    },
+    {
+      "start": 881.5,
+      "end": 883.5,
+      "text": " I will keep A transpose as minus A",
+      "chunk_id": 421
+    },
+    {
+      "start": 883.5,
+      "end": 885.5,
+      "text": " so I have taken this as skew symmetric",
+      "chunk_id": 422
+    },
+    {
+      "start": 885.5,
+      "end": 887.5,
+      "text": " when I take A transpose as minus A",
+      "chunk_id": 423
+    },
+    {
+      "start": 887.5,
+      "end": 889.5,
+      "text": " then my X transpose will be",
+      "chunk_id": 424
+    },
+    {
+      "start": 889.5,
+      "end": 891.5,
+      "text": " B transpose minus A into B",
+      "chunk_id": 425
+    },
+    {
+      "start": 891.5,
+      "end": 893.5,
+      "text": " so minus will come out",
+      "chunk_id": 426
+    },
+    {
+      "start": 893.5,
+      "end": 895.5,
+      "text": " B transpose AB so X transpose minus X",
+      "chunk_id": 427
+    },
+    {
+      "start": 895.5,
+      "end": 897.5,
+      "text": " it means it is skew symmetric matrices",
+      "chunk_id": 428
+    },
+    {
+      "start": 897.5,
+      "end": 899.5,
+      "text": " alright",
+      "chunk_id": 429
+    },
+    {
+      "start": 899.5,
+      "end": 901.5,
+      "text": " very good",
+      "chunk_id": 430
+    },
+    {
+      "start": 901.5,
+      "end": 903.5,
+      "text": " next",
+      "chunk_id": 431
+    },
+    {
+      "start": 903.5,
+      "end": 905.5,
+      "text": " express the matrices",
+      "chunk_id": 432
+    },
+    {
+      "start": 905.5,
+      "end": 907.5,
+      "text": " this is sum of symmetric and skew symmetric matrices",
+      "chunk_id": 433
+    },
+    {
+      "start": 907.5,
+      "end": 909.5,
+      "text": " so formula is like this",
+      "chunk_id": 434
+    },
+    {
+      "start": 909.5,
+      "end": 911.5,
+      "text": " you have to take B",
+      "chunk_id": 435
+    },
+    {
+      "start": 911.5,
+      "end": 913.5,
+      "text": " first you have to take P and Q",
+      "chunk_id": 436
+    },
+    {
+      "start": 913.5,
+      "end": 915.5,
+      "text": " P is B plus B transpose upon 2",
+      "chunk_id": 437
+    },
+    {
+      "start": 915.5,
+      "end": 917.5,
+      "text": " and Q is B minus B transpose upon 2",
+      "chunk_id": 438
+    },
+    {
+      "start": 919.5,
+      "end": 921.5,
+      "text": " first you have to take both",
+      "chunk_id": 439
+    },
+    {
+      "start": 921.5,
+      "end": 923.5,
+      "text": " so when I take B",
+      "chunk_id": 440
+    },
+    {
+      "start": 923.5,
+      "end": 925.5,
+      "text": " it will be",
+      "chunk_id": 441
+    },
+    {
+      "start": 925.5,
+      "end": 927.5,
+      "text": " 2 minus 2 minus 4",
+      "chunk_id": 442
+    },
+    {
+      "start": 927.5,
+      "end": 929.5,
+      "text": " minus 1 3 4",
+      "chunk_id": 443
+    },
+    {
+      "start": 929.5,
+      "end": 931.5,
+      "text": " 1 minus 2 minus 3",
+      "chunk_id": 444
+    },
+    {
+      "start": 931.5,
+      "end": 933.5,
+      "text": " now I am taking both as plus",
+      "chunk_id": 445
+    },
+    {
+      "start": 933.5,
+      "end": 935.5,
+      "text": " and upon 2",
+      "chunk_id": 446
+    },
+    {
+      "start": 935.5,
+      "end": 937.5,
+      "text": " I have added this in B",
+      "chunk_id": 447
+    },
+    {
+      "start": 937.5,
+      "end": 939.5,
+      "text": " so it will be",
+      "chunk_id": 448
+    },
+    {
+      "start": 939.5,
+      "end": 941.5,
+      "text": " 4 minus 3 minus 3",
+      "chunk_id": 449
+    },
+    {
+      "start": 941.5,
+      "end": 943.5,
+      "text": " minus 3",
+      "chunk_id": 450
+    },
+    {
+      "start": 943.5,
+      "end": 945.5,
+      "text": " 6",
+      "chunk_id": 451
+    },
+    {
+      "start": 945.5,
+      "end": 947.5,
+      "text": " 2",
+      "chunk_id": 452
+    },
+    {
+      "start": 947.5,
+      "end": 949.5,
+      "text": " and here is my minus 3",
+      "chunk_id": 453
+    },
+    {
+      "start": 949.5,
+      "end": 951.5,
+      "text": " 2 and minus 6",
+      "chunk_id": 454
+    },
+    {
+      "start": 951.5,
+      "end": 953.5,
+      "text": " I will subtract this",
+      "chunk_id": 455
+    },
+    {
+      "start": 953.5,
+      "end": 955.5,
+      "text": " so 0",
+      "chunk_id": 456
+    },
+    {
+      "start": 955.5,
+      "end": 957.5,
+      "text": " and here is my minus 1",
+      "chunk_id": 457
+    },
+    {
+      "start": 957.5,
+      "end": 959.5,
+      "text": " and here is my minus 5",
+      "chunk_id": 458
+    },
+    {
+      "start": 959.5,
+      "end": 961.5,
+      "text": " here is my 1",
+      "chunk_id": 459
+    },
+    {
+      "start": 961.5,
+      "end": 963.5,
+      "text": " and here is my 0",
+      "chunk_id": 460
+    },
+    {
+      "start": 963.5,
+      "end": 965.5,
+      "text": " and here is my 4 plus 2",
+      "chunk_id": 461
+    },
+    {
+      "start": 965.5,
+      "end": 967.5,
+      "text": " 6",
+      "chunk_id": 462
+    },
+    {
+      "start": 967.5,
+      "end": 969.5,
+      "text": " here is my plus 5",
+      "chunk_id": 463
+    },
+    {
+      "start": 969.5,
+      "end": 971.5,
+      "text": " and here is my minus 6",
+      "chunk_id": 464
+    },
+    {
+      "start": 971.5,
+      "end": 973.5,
+      "text": " and here is my 0",
+      "chunk_id": 465
+    },
+    {
+      "start": 973.5,
+      "end": 975.5,
+      "text": " so this is my P and Q",
+      "chunk_id": 466
+    },
+    {
+      "start": 975.5,
+      "end": 977.5,
+      "text": " now I have to show P",
+      "chunk_id": 467
+    },
+    {
+      "start": 977.5,
+      "end": 979.5,
+      "text": " so I have taken P transpose",
+      "chunk_id": 468
+    },
+    {
+      "start": 979.5,
+      "end": 981.5,
+      "text": " 1 upon 2",
+      "chunk_id": 469
+    },
+    {
+      "start": 981.5,
+      "end": 983.5,
+      "text": " 4 minus 3 minus 3",
+      "chunk_id": 470
+    },
+    {
+      "start": 983.5,
+      "end": 985.5,
+      "text": " 6 2 minus 3",
+      "chunk_id": 471
+    },
+    {
+      "start": 985.5,
+      "end": 987.5,
+      "text": " 2 minus 6",
+      "chunk_id": 472
+    },
+    {
+      "start": 987.5,
+      "end": 989.5,
+      "text": " and it is same",
+      "chunk_id": 473
+    },
+    {
+      "start": 989.5,
+      "end": 991.5,
+      "text": " so P is symmetric",
+      "chunk_id": 474
+    },
+    {
+      "start": 991.5,
+      "end": 993.5,
+      "text": " similarly I will take Q transpose",
+      "chunk_id": 475
+    },
+    {
+      "start": 993.5,
+      "end": 995.5,
+      "text": " when I will take Q transpose",
+      "chunk_id": 476
+    },
+    {
+      "start": 995.5,
+      "end": 997.5,
+      "text": " then all the signs will change",
+      "chunk_id": 477
+    },
+    {
+      "start": 997.5,
+      "end": 999.5,
+      "text": " it means it is a",
+      "chunk_id": 478
+    },
+    {
+      "start": 999.5,
+      "end": 1001.5,
+      "text": " Q transpose equal to minus Q",
+      "chunk_id": 479
+    },
+    {
+      "start": 1001.5,
+      "end": 1003.5,
+      "text": " it means Q is skew symmetric",
+      "chunk_id": 480
+    },
+    {
+      "start": 1005.5,
+      "end": 1007.5,
+      "text": " it means P is symmetric",
+      "chunk_id": 481
+    },
+    {
+      "start": 1007.5,
+      "end": 1009.5,
+      "text": " and Q is skew symmetric",
+      "chunk_id": 482
+    },
+    {
+      "start": 1009.5,
+      "end": 1011.5,
+      "text": " because later you have to add P and Q",
+      "chunk_id": 483
+    },
+    {
+      "start": 1011.5,
+      "end": 1013.5,
+      "text": " now I have to add P and Q",
+      "chunk_id": 484
+    },
+    {
+      "start": 1013.5,
+      "end": 1015.5,
+      "text": " when you add P and Q",
+      "chunk_id": 485
+    },
+    {
+      "start": 1017.5,
+      "end": 1019.5,
+      "text": " then it will become",
+      "chunk_id": 486
+    },
+    {
+      "start": 1019.5,
+      "end": 1021.5,
+      "text": " B",
+      "chunk_id": 487
+    },
+    {
+      "start": 1021.5,
+      "end": 1023.5,
+      "text": " when you add P and Q",
+      "chunk_id": 488
+    },
+    {
+      "start": 1023.5,
+      "end": 1025.5,
+      "text": " then it will become B",
+      "chunk_id": 489
+    },
+    {
+      "start": 1025.5,
+      "end": 1027.5,
+      "text": " it means B is a sum of two matrices",
+      "chunk_id": 490
+    },
+    {
+      "start": 1027.5,
+      "end": 1029.5,
+      "text": " P and Q where P is symmetric",
+      "chunk_id": 491
+    },
+    {
+      "start": 1029.5,
+      "end": 1031.5,
+      "text": " and Q is skew symmetric",
+      "chunk_id": 492
+    },
+    {
+      "start": 1031.5,
+      "end": 1033.5,
+      "text": " sometimes you will not get these matrices",
+      "chunk_id": 493
+    },
+    {
+      "start": 1033.5,
+      "end": 1035.5,
+      "text": " in case",
+      "chunk_id": 494
+    },
+    {
+      "start": 1035.5,
+      "end": 1037.5,
+      "text": " it will say express matrices B",
+      "chunk_id": 495
+    },
+    {
+      "start": 1037.5,
+      "end": 1039.5,
+      "text": " as a sum of symmetric and skew symmetric",
+      "chunk_id": 496
+    },
+    {
+      "start": 1039.5,
+      "end": 1041.5,
+      "text": " so you have to do the same",
+      "chunk_id": 497
+    },
+    {
+      "start": 1041.5,
+      "end": 1043.5,
+      "text": " first you have to subtract P",
+      "chunk_id": 498
+    },
+    {
+      "start": 1043.5,
+      "end": 1045.5,
+      "text": " B plus B transpose upon 2",
+      "chunk_id": 499
+    },
+    {
+      "start": 1045.5,
+      "end": 1047.5,
+      "text": " Q minus B transpose upon 2",
+      "chunk_id": 500
+    },
+    {
+      "start": 1047.5,
+      "end": 1049.5,
+      "text": " now you have to prove P as symmetric",
+      "chunk_id": 501
+    },
+    {
+      "start": 1049.5,
+      "end": 1051.5,
+      "text": " so we will subtract P transpose",
+      "chunk_id": 502
+    },
+    {
+      "start": 1051.5,
+      "end": 1053.5,
+      "text": " so B plus B transpose upon 2 whole transpose",
+      "chunk_id": 503
+    },
+    {
+      "start": 1053.5,
+      "end": 1055.5,
+      "text": " 1 upon 2 will come",
+      "chunk_id": 504
+    },
+    {
+      "start": 1055.5,
+      "end": 1057.5,
+      "text": " B transpose will be separate",
+      "chunk_id": 505
+    },
+    {
+      "start": 1057.5,
+      "end": 1059.5,
+      "text": " and B transpose transpose will be separate",
+      "chunk_id": 506
+    },
+    {
+      "start": 1059.5,
+      "end": 1061.5,
+      "text": " 1 upon B transpose plus B",
+      "chunk_id": 507
+    },
+    {
+      "start": 1061.5,
+      "end": 1063.5,
+      "text": " and P will come again",
+      "chunk_id": 508
+    },
+    {
+      "start": 1063.5,
+      "end": 1065.5,
+      "text": " so P transpose equal to P",
+      "chunk_id": 509
+    },
+    {
+      "start": 1065.5,
+      "end": 1067.5,
+      "text": " so P will be symmetric",
+      "chunk_id": 510
+    },
+    {
+      "start": 1067.5,
+      "end": 1069.5,
+      "text": " now we will prove Q",
+      "chunk_id": 511
+    },
+    {
+      "start": 1069.5,
+      "end": 1071.5,
+      "text": " so if you will not get matrix",
+      "chunk_id": 512
+    },
+    {
+      "start": 1071.5,
+      "end": 1073.5,
+      "text": " then you don't have to let it",
+      "chunk_id": 513
+    },
+    {
+      "start": 1073.5,
+      "end": 1075.5,
+      "text": " if you let the matrix then you will not get marks",
+      "chunk_id": 514
+    },
+    {
+      "start": 1075.5,
+      "end": 1077.5,
+      "text": " right",
+      "chunk_id": 515
+    },
+    {
+      "start": 1077.5,
+      "end": 1079.5,
+      "text": " next",
+      "chunk_id": 516
+    },
+    {
+      "start": 1079.5,
+      "end": 1081.5,
+      "text": " show that matrix is a satisfied equation",
+      "chunk_id": 517
+    },
+    {
+      "start": 1081.5,
+      "end": 1083.5,
+      "text": " sometimes it comes that",
+      "chunk_id": 518
+    },
+    {
+      "start": 1083.5,
+      "end": 1085.5,
+      "text": " it is a satisfied equation",
+      "chunk_id": 519
+    },
+    {
+      "start": 1085.5,
+      "end": 1087.5,
+      "text": " I think there is a misprint",
+      "chunk_id": 520
+    },
+    {
+      "start": 1087.5,
+      "end": 1089.5,
+      "text": " because it is a cube",
+      "chunk_id": 521
+    },
+    {
+      "start": 1089.5,
+      "end": 1091.5,
+      "text": " both are A",
+      "chunk_id": 522
+    },
+    {
+      "start": 1091.5,
+      "end": 1093.5,
+      "text": " so we will assume Q",
+      "chunk_id": 523
+    },
+    {
+      "start": 1093.5,
+      "end": 1095.5,
+      "text": " so you don't have to do anything",
+      "chunk_id": 524
+    },
+    {
+      "start": 1095.5,
+      "end": 1097.5,
+      "text": " so we will multiply A",
+      "chunk_id": 525
+    },
+    {
+      "start": 1099.5,
+      "end": 1101.5,
+      "text": " so you know how to multiply",
+      "chunk_id": 526
+    },
+    {
+      "start": 1101.5,
+      "end": 1103.5,
+      "text": " so we will multiply",
+      "chunk_id": 527
+    },
+    {
+      "start": 1103.5,
+      "end": 1105.5,
+      "text": " 4 plus 3 is 7",
+      "chunk_id": 528
+    },
+    {
+      "start": 1105.5,
+      "end": 1107.5,
+      "text": " 6 plus 6 is 12",
+      "chunk_id": 529
+    },
+    {
+      "start": 1107.5,
+      "end": 1109.5,
+      "text": " 2 plus 2 is 4",
+      "chunk_id": 530
+    },
+    {
+      "start": 1109.5,
+      "end": 1111.5,
+      "text": " 3 plus 4 is 7",
+      "chunk_id": 531
+    },
+    {
+      "start": 1111.5,
+      "end": 1113.5,
+      "text": " so my matrix A square is here",
+      "chunk_id": 532
+    },
+    {
+      "start": 1113.5,
+      "end": 1115.5,
+      "text": " so we will take A cube",
+      "chunk_id": 533
+    },
+    {
+      "start": 1117.5,
+      "end": 1119.5,
+      "text": " so we will multiply",
+      "chunk_id": 534
+    },
+    {
+      "start": 1119.5,
+      "end": 1121.5,
+      "text": " so my A cube will come",
+      "chunk_id": 535
+    },
+    {
+      "start": 1121.5,
+      "end": 1123.5,
+      "text": " 14 plus 12 is 26",
+      "chunk_id": 536
+    },
+    {
+      "start": 1125.5,
+      "end": 1127.5,
+      "text": " 21 plus 24 is 45",
+      "chunk_id": 537
+    },
+    {
+      "start": 1129.5,
+      "end": 1131.5,
+      "text": " 8 plus 7 is 15",
+      "chunk_id": 538
+    },
+    {
+      "start": 1131.5,
+      "end": 1133.5,
+      "text": " and this is 12",
+      "chunk_id": 539
+    },
+    {
+      "start": 1133.5,
+      "end": 1135.5,
+      "text": " and 14 is 26",
+      "chunk_id": 540
+    },
+    {
+      "start": 1135.5,
+      "end": 1137.5,
+      "text": " so now what you have to do",
+      "chunk_id": 541
+    },
+    {
+      "start": 1137.5,
+      "end": 1139.5,
+      "text": " you have to put all values here",
+      "chunk_id": 542
+    },
+    {
+      "start": 1139.5,
+      "end": 1141.5,
+      "text": " it means A cube",
+      "chunk_id": 543
+    },
+    {
+      "start": 1141.5,
+      "end": 1143.5,
+      "text": " 26 plus",
+      "chunk_id": 544
+    },
+    {
+      "start": 1143.5,
+      "end": 1145.5,
+      "text": " 45 plus 15",
+      "chunk_id": 545
+    },
+    {
+      "start": 1145.5,
+      "end": 1147.5,
+      "text": " plus 26",
+      "chunk_id": 546
+    },
+    {
+      "start": 1147.5,
+      "end": 1149.5,
+      "text": " minus 4A square",
+      "chunk_id": 547
+    },
+    {
+      "start": 1149.5,
+      "end": 1151.5,
+      "text": " 7 plus 12 is 47",
+      "chunk_id": 548
+    },
+    {
+      "start": 1151.5,
+      "end": 1153.5,
+      "text": " plus A",
+      "chunk_id": 549
+    },
+    {
+      "start": 1153.5,
+      "end": 1155.5,
+      "text": " so you have to add them",
+      "chunk_id": 550
+    },
+    {
+      "start": 1155.5,
+      "end": 1157.5,
+      "text": " so first these two will be plus",
+      "chunk_id": 551
+    },
+    {
+      "start": 1157.5,
+      "end": 1159.5,
+      "text": " and then these two will be minus",
+      "chunk_id": 552
+    },
+    {
+      "start": 1159.5,
+      "end": 1161.5,
+      "text": " sometimes kids make mistake",
+      "chunk_id": 553
+    },
+    {
+      "start": 1161.5,
+      "end": 1163.5,
+      "text": " that they add these two first",
+      "chunk_id": 554
+    },
+    {
+      "start": 1163.5,
+      "end": 1165.5,
+      "text": " but they don't have to add",
+      "chunk_id": 555
+    },
+    {
+      "start": 1165.5,
+      "end": 1167.5,
+      "text": " because this is minus",
+      "chunk_id": 556
+    },
+    {
+      "start": 1167.5,
+      "end": 1169.5,
+      "text": " so first we will add these two",
+      "chunk_id": 557
+    },
+    {
+      "start": 1169.5,
+      "end": 1171.5,
+      "text": " so this is 28, 135, 15, 52",
+      "chunk_id": 558
+    },
+    {
+      "start": 1171.5,
+      "end": 1173.5,
+      "text": " and when we will add minus",
+      "chunk_id": 559
+    },
+    {
+      "start": 1173.5,
+      "end": 1175.5,
+      "text": " so this will be 28, 48",
+      "chunk_id": 560
+    },
+    {
+      "start": 1175.5,
+      "end": 1177.5,
+      "text": " this is wrong",
+      "chunk_id": 561
+    },
+    {
+      "start": 1177.5,
+      "end": 1179.5,
+      "text": " I thought there was a misprint",
+      "chunk_id": 562
+    },
+    {
+      "start": 1179.5,
+      "end": 1181.5,
+      "text": " so you have to",
+      "chunk_id": 563
+    },
+    {
+      "start": 1181.5,
+      "end": 1183.5,
+      "text": " do like this",
+      "chunk_id": 564
+    },
+    {
+      "start": 1183.5,
+      "end": 1185.5,
+      "text": " and your answer will be 0",
+      "chunk_id": 565
+    },
+    {
+      "start": 1185.5,
+      "end": 1187.5,
+      "text": " ok",
+      "chunk_id": 566
+    },
+    {
+      "start": 1187.5,
+      "end": 1189.5,
+      "text": " sometimes you are given",
+      "chunk_id": 567
+    },
+    {
+      "start": 1189.5,
+      "end": 1191.5,
+      "text": " this question",
+      "chunk_id": 568
+    },
+    {
+      "start": 1191.5,
+      "end": 1193.5,
+      "text": " sometimes it is given",
+      "chunk_id": 569
+    },
+    {
+      "start": 1193.5,
+      "end": 1195.5,
+      "text": " that this is A",
+      "chunk_id": 570
+    },
+    {
+      "start": 1195.5,
+      "end": 1197.5,
+      "text": " and fx is given as",
+      "chunk_id": 571
+    },
+    {
+      "start": 1197.5,
+      "end": 1199.5,
+      "text": " x square minus 3x plus 5",
+      "chunk_id": 572
+    },
+    {
+      "start": 1199.5,
+      "end": 1201.5,
+      "text": " ok",
+      "chunk_id": 573
+    },
+    {
+      "start": 1201.5,
+      "end": 1203.5,
+      "text": " and I have to find fa",
+      "chunk_id": 574
+    },
+    {
+      "start": 1203.5,
+      "end": 1205.5,
+      "text": " so you have to put a instead of x",
+      "chunk_id": 575
+    },
+    {
+      "start": 1205.5,
+      "end": 1207.5,
+      "text": " so this will be",
+      "chunk_id": 576
+    },
+    {
+      "start": 1207.5,
+      "end": 1209.5,
+      "text": " a square minus 3a plus 5",
+      "chunk_id": 577
+    },
+    {
+      "start": 1209.5,
+      "end": 1211.5,
+      "text": " so the problem is",
+      "chunk_id": 578
+    },
+    {
+      "start": 1211.5,
+      "end": 1213.5,
+      "text": " I will get A square",
+      "chunk_id": 579
+    },
+    {
+      "start": 1213.5,
+      "end": 1215.5,
+      "text": " and how will I add 5 in matrix",
+      "chunk_id": 580
+    },
+    {
+      "start": 1215.5,
+      "end": 1217.5,
+      "text": " so when you have to add a number",
+      "chunk_id": 581
+    },
+    {
+      "start": 1217.5,
+      "end": 1219.5,
+      "text": " in a matrix",
+      "chunk_id": 582
+    },
+    {
+      "start": 1219.5,
+      "end": 1221.5,
+      "text": " so we can't add like this",
+      "chunk_id": 583
+    },
+    {
+      "start": 1221.5,
+      "end": 1223.5,
+      "text": " we will put i in 5",
+      "chunk_id": 584
+    },
+    {
+      "start": 1223.5,
+      "end": 1225.5,
+      "text": " we will multiply i",
+      "chunk_id": 585
+    },
+    {
+      "start": 1225.5,
+      "end": 1227.5,
+      "text": " and then add",
+      "chunk_id": 586
+    },
+    {
+      "start": 1227.5,
+      "end": 1229.5,
+      "text": " because we need two matrices",
+      "chunk_id": 587
+    },
+    {
+      "start": 1229.5,
+      "end": 1231.5,
+      "text": " and their order should be same",
+      "chunk_id": 588
+    },
+    {
+      "start": 1231.5,
+      "end": 1233.5,
+      "text": " clear",
+      "chunk_id": 589
+    },
+    {
+      "start": 1233.5,
+      "end": 1235.5,
+      "text": " so you are given this",
+      "chunk_id": 590
+    },
+    {
+      "start": 1235.5,
+      "end": 1237.5,
+      "text": " and you have to find k",
+      "chunk_id": 591
+    },
+    {
+      "start": 1237.5,
+      "end": 1239.5,
+      "text": " so you have to find A square",
+      "chunk_id": 592
+    },
+    {
+      "start": 1239.5,
+      "end": 1241.5,
+      "text": " and multiply it",
+      "chunk_id": 593
+    },
+    {
+      "start": 1241.5,
+      "end": 1243.5,
+      "text": " 3 minus 2",
+      "chunk_id": 594
+    },
+    {
+      "start": 1243.5,
+      "end": 1245.5,
+      "text": " 4 minus 2",
+      "chunk_id": 595
+    },
+    {
+      "start": 1245.5,
+      "end": 1247.5,
+      "text": " 9 minus 8",
+      "chunk_id": 596
+    },
+    {
+      "start": 1247.5,
+      "end": 1249.5,
+      "text": " 1 minus 6",
+      "chunk_id": 597
+    },
+    {
+      "start": 1249.5,
+      "end": 1251.5,
+      "text": " plus 4 minus 2",
+      "chunk_id": 598
+    },
+    {
+      "start": 1251.5,
+      "end": 1253.5,
+      "text": " 12 minus 8",
+      "chunk_id": 599
+    },
+    {
+      "start": 1253.5,
+      "end": 1255.5,
+      "text": " 4 minus 8",
+      "chunk_id": 600
+    },
+    {
+      "start": 1255.5,
+      "end": 1257.5,
+      "text": " plus 2 minus 4",
+      "chunk_id": 601
+    },
+    {
+      "start": 1257.5,
+      "end": 1259.5,
+      "text": " this is my value",
+      "chunk_id": 602
+    },
+    {
+      "start": 1259.5,
+      "end": 1261.5,
+      "text": " and I have copied",
+      "chunk_id": 603
+    },
+    {
+      "start": 1261.5,
+      "end": 1263.5,
+      "text": " A value",
+      "chunk_id": 604
+    },
+    {
+      "start": 1263.5,
+      "end": 1265.5,
+      "text": " and I have given 2i",
+      "chunk_id": 605
+    },
+    {
+      "start": 1265.5,
+      "end": 1267.5,
+      "text": " so I will add",
+      "chunk_id": 606
+    },
+    {
+      "start": 1267.5,
+      "end": 1269.5,
+      "text": " 2i will be 1 plus 2i",
+      "chunk_id": 607
+    },
+    {
+      "start": 1269.5,
+      "end": 1271.5,
+      "text": " minus 2 will be like this",
+      "chunk_id": 608
+    },
+    {
+      "start": 1271.5,
+      "end": 1273.5,
+      "text": " 4 will be like this",
+      "chunk_id": 609
+    },
+    {
+      "start": 1273.5,
+      "end": 1275.5,
+      "text": " and this will be minus 2",
+      "chunk_id": 610
+    },
+    {
+      "start": 1275.5,
+      "end": 1277.5,
+      "text": " and this will be same",
+      "chunk_id": 611
+    },
+    {
+      "start": 1277.5,
+      "end": 1279.5,
+      "text": " when you will get such question",
+      "chunk_id": 612
+    },
+    {
+      "start": 1279.5,
+      "end": 1281.5,
+      "text": " so these will be same",
+      "chunk_id": 613
+    },
+    {
+      "start": 1281.5,
+      "end": 1283.5,
+      "text": " just k value will be 1",
+      "chunk_id": 614
+    },
+    {
+      "start": 1283.5,
+      "end": 1285.5,
+      "text": " if you multiply 2 here",
+      "chunk_id": 615
+    },
+    {
+      "start": 1285.5,
+      "end": 1287.5,
+      "text": " then k value will be 2",
+      "chunk_id": 616
+    },
+    {
+      "start": 1287.5,
+      "end": 1289.5,
+      "text": " anything can be multiplied",
+      "chunk_id": 617
+    },
+    {
+      "start": 1289.5,
+      "end": 1291.5,
+      "text": " but for now nothing",
+      "chunk_id": 618
+    },
+    {
+      "start": 1291.5,
+      "end": 1293.5,
+      "text": " so we will consider k as 1",
+      "chunk_id": 619
+    },
+    {
+      "start": 1293.5,
+      "end": 1295.5,
+      "text": " so we have given k as symmetry",
+      "chunk_id": 620
+    },
+    {
+      "start": 1295.5,
+      "end": 1297.5,
+      "text": " and b as symmetry",
+      "chunk_id": 621
+    },
+    {
+      "start": 1297.5,
+      "end": 1299.5,
+      "text": " and I have to find A",
+      "chunk_id": 622
+    },
+    {
+      "start": 1299.5,
+      "end": 1301.5,
+      "text": " so if you think",
+      "chunk_id": 623
+    },
+    {
+      "start": 1301.5,
+      "end": 1303.5,
+      "text": " that I will multiply both",
+      "chunk_id": 624
+    },
+    {
+      "start": 1303.5,
+      "end": 1305.5,
+      "text": " then I will get answer",
+      "chunk_id": 625
+    },
+    {
+      "start": 1305.5,
+      "end": 1307.5,
+      "text": " no I need A value",
+      "chunk_id": 626
+    },
+    {
+      "start": 1307.5,
+      "end": 1309.5,
+      "text": " so first I will do",
+      "chunk_id": 627
+    },
+    {
+      "start": 1309.5,
+      "end": 1311.5,
+      "text": " A is symmetric",
+      "chunk_id": 628
+    },
+    {
+      "start": 1311.5,
+      "end": 1313.5,
+      "text": " so I will take out A",
+      "chunk_id": 629
+    },
+    {
+      "start": 1313.5,
+      "end": 1315.5,
+      "text": " 3A minus 1",
+      "chunk_id": 630
+    },
+    {
+      "start": 1315.5,
+      "end": 1317.5,
+      "text": " 2 5C",
+      "chunk_id": 631
+    },
+    {
+      "start": 1317.5,
+      "end": 1319.5,
+      "text": " B A2",
+      "chunk_id": 632
+    },
+    {
+      "start": 1319.5,
+      "end": 1321.5,
+      "text": " and I will keep it equal",
+      "chunk_id": 633
+    },
+    {
+      "start": 1321.5,
+      "end": 1323.5,
+      "text": " now I will compare",
+      "chunk_id": 634
+    },
+    {
+      "start": 1323.5,
+      "end": 1325.5,
+      "text": " so A value is 2",
+      "chunk_id": 635
+    },
+    {
+      "start": 1325.5,
+      "end": 1327.5,
+      "text": " ok",
+      "chunk_id": 636
+    },
+    {
+      "start": 1327.5,
+      "end": 1329.5,
+      "text": " B value is",
+      "chunk_id": 637
+    },
+    {
+      "start": 1329.5,
+      "end": 1331.5,
+      "text": " minus 1",
+      "chunk_id": 638
+    },
+    {
+      "start": 1331.5,
+      "end": 1333.5,
+      "text": " and C value is 8",
+      "chunk_id": 639
+    },
+    {
+      "start": 1333.5,
+      "end": 1335.5,
+      "text": " so A value is 2",
+      "chunk_id": 640
+    },
+    {
+      "start": 1335.5,
+      "end": 1337.5,
+      "text": " B value is minus 1",
+      "chunk_id": 641
+    },
+    {
+      "start": 1337.5,
+      "end": 1339.5,
+      "text": " C value is 8",
+      "chunk_id": 642
+    },
+    {
+      "start": 1339.5,
+      "end": 1341.5,
+      "text": " so A will be like this",
+      "chunk_id": 643
+    },
+    {
+      "start": 1341.5,
+      "end": 1343.5,
+      "text": " 3 2 minus 1",
+      "chunk_id": 644
+    },
+    {
+      "start": 1343.5,
+      "end": 1345.5,
+      "text": " 2 5 8",
+      "chunk_id": 645
+    },
+    {
+      "start": 1345.5,
+      "end": 1347.5,
+      "text": " and minus 1 8 2",
+      "chunk_id": 646
+    },
+    {
+      "start": 1347.5,
+      "end": 1349.5,
+      "text": " clear",
+      "chunk_id": 647
+    },
+    {
+      "start": 1349.5,
+      "end": 1351.5,
+      "text": " so this is given",
+      "chunk_id": 648
+    },
+    {
+      "start": 1351.5,
+      "end": 1353.5,
+      "text": " so I will keep B transpose as minus B",
+      "chunk_id": 649
+    },
+    {
+      "start": 1353.5,
+      "end": 1355.5,
+      "text": " so I will take out B transpose",
+      "chunk_id": 650
+    },
+    {
+      "start": 1355.5,
+      "end": 1357.5,
+      "text": " B 3A",
+      "chunk_id": 651
+    },
+    {
+      "start": 1357.5,
+      "end": 1359.5,
+      "text": " B minus A",
+      "chunk_id": 652
+    },
+    {
+      "start": 1359.5,
+      "end": 1361.5,
+      "text": " E minus 2B minus C",
+      "chunk_id": 653
+    },
+    {
+      "start": 1361.5,
+      "end": 1363.5,
+      "text": " minus 2 6 minus F",
+      "chunk_id": 654
+    },
+    {
+      "start": 1363.5,
+      "end": 1365.5,
+      "text": " and I will keep it equal to minus B",
+      "chunk_id": 655
+    },
+    {
+      "start": 1365.5,
+      "end": 1367.5,
+      "text": " so I will multiply",
+      "chunk_id": 656
+    },
+    {
+      "start": 1367.5,
+      "end": 1369.5,
+      "text": " minus D minus 3",
+      "chunk_id": 657
+    },
+    {
+      "start": 1369.5,
+      "end": 1371.5,
+      "text": " minus A",
+      "chunk_id": 658
+    },
+    {
+      "start": 1371.5,
+      "end": 1373.5,
+      "text": " A minus B minus E",
+      "chunk_id": 659
+    },
+    {
+      "start": 1373.5,
+      "end": 1375.5,
+      "text": " 2B plus C",
+      "chunk_id": 660
+    },
+    {
+      "start": 1375.5,
+      "end": 1377.5,
+      "text": " and 2 minus 6",
+      "chunk_id": 661
+    },
+    {
+      "start": 1377.5,
+      "end": 1379.5,
+      "text": " so we will take out",
+      "chunk_id": 662
+    },
+    {
+      "start": 1379.5,
+      "end": 1381.5,
+      "text": " other values",
+      "chunk_id": 663
+    },
+    {
+      "start": 1381.5,
+      "end": 1383.5,
+      "text": " so I will compare",
+      "chunk_id": 664
+    },
+    {
+      "start": 1383.5,
+      "end": 1385.5,
+      "text": " D equal to minus D",
+      "chunk_id": 665
+    },
+    {
+      "start": 1385.5,
+      "end": 1387.5,
+      "text": " so 2D equal to 0",
+      "chunk_id": 666
+    },
+    {
+      "start": 1387.5,
+      "end": 1389.5,
+      "text": " D 0",
+      "chunk_id": 667
+    },
+    {
+      "start": 1389.5,
+      "end": 1391.5,
+      "text": " so like this D 0",
+      "chunk_id": 668
+    },
+    {
+      "start": 1391.5,
+      "end": 1393.5,
+      "text": " E 0 F 0",
+      "chunk_id": 669
+    },
+    {
+      "start": 1393.5,
+      "end": 1395.5,
+      "text": " so D 0",
+      "chunk_id": 670
+    },
+    {
+      "start": 1395.5,
+      "end": 1397.5,
+      "text": " E 0 F 0",
+      "chunk_id": 671
+    },
+    {
+      "start": 1397.5,
+      "end": 1399.5,
+      "text": " A B C values are here",
+      "chunk_id": 672
+    },
+    {
+      "start": 1399.5,
+      "end": 1401.5,
+      "text": " so we will put A B C values here",
+      "chunk_id": 673
+    },
+    {
+      "start": 1401.5,
+      "end": 1403.5,
+      "text": " so all values are here",
+      "chunk_id": 674
+    },
+    {
+      "start": 1403.5,
+      "end": 1405.5,
+      "text": " so my B value is here",
+      "chunk_id": 675
+    },
+    {
+      "start": 1405.5,
+      "end": 1407.5,
+      "text": " D 0 B minus A",
+      "chunk_id": 676
+    },
+    {
+      "start": 1407.5,
+      "end": 1409.5,
+      "text": " B minus 2",
+      "chunk_id": 677
+    },
+    {
+      "start": 1409.5,
+      "end": 1411.5,
+      "text": " minus 1 minus 3",
+      "chunk_id": 678
+    },
+    {
+      "start": 1411.5,
+      "end": 1413.5,
+      "text": " minus 2 3",
+      "chunk_id": 679
+    },
+    {
+      "start": 1413.5,
+      "end": 1415.5,
+      "text": " E value is 0",
+      "chunk_id": 680
+    },
+    {
+      "start": 1415.5,
+      "end": 1417.5,
+      "text": " 6 A value is 2",
+      "chunk_id": 681
+    },
+    {
+      "start": 1417.5,
+      "end": 1419.5,
+      "text": " and 2B",
+      "chunk_id": 682
+    },
+    {
+      "start": 1419.5,
+      "end": 1421.5,
+      "text": " minus 2B minus C",
+      "chunk_id": 683
+    },
+    {
+      "start": 1421.5,
+      "end": 1423.5,
+      "text": " so minus 2 minus 8",
+      "chunk_id": 684
+    },
+    {
+      "start": 1423.5,
+      "end": 1425.5,
+      "text": " minus 10",
+      "chunk_id": 685
+    },
+    {
+      "start": 1425.5,
+      "end": 1427.5,
+      "text": " no",
+      "chunk_id": 686
+    },
+    {
+      "start": 1427.5,
+      "end": 1429.5,
+      "text": " minus 2B so it will be plus",
+      "chunk_id": 687
+    },
+    {
+      "start": 1429.5,
+      "end": 1431.5,
+      "text": " minus 6",
+      "chunk_id": 688
+    },
+    {
+      "start": 1431.5,
+      "end": 1433.5,
+      "text": " and F is 0 so it is B",
+      "chunk_id": 689
+    },
+    {
+      "start": 1433.5,
+      "end": 1435.5,
+      "text": " so I have A and B",
+      "chunk_id": 690
+    },
+    {
+      "start": 1435.5,
+      "end": 1437.5,
+      "text": " so I have to take out A B",
+      "chunk_id": 691
+    },
+    {
+      "start": 1437.5,
+      "end": 1439.5,
+      "text": " so you can multiply",
+      "chunk_id": 692
+    },
+    {
+      "start": 1439.5,
+      "end": 1441.5,
+      "text": " so you can do this",
+      "chunk_id": 693
+    },
+    {
+      "start": 1441.5,
+      "end": 1443.5,
+      "text": " write A here",
+      "chunk_id": 694
+    },
+    {
+      "start": 1443.5,
+      "end": 1445.5,
+      "text": " 321",
+      "chunk_id": 695
+    },
+    {
+      "start": 1445.5,
+      "end": 1447.5,
+      "text": " and 321 minus 1",
+      "chunk_id": 696
+    },
+    {
+      "start": 1447.5,
+      "end": 1449.5,
+      "text": " and this is 258",
+      "chunk_id": 697
+    },
+    {
+      "start": 1451.5,
+      "end": 1453.5,
+      "text": " and minus 182",
+      "chunk_id": 698
+    },
+    {
+      "start": 1453.5,
+      "end": 1455.5,
+      "text": " so you have to multiply",
+      "chunk_id": 699
+    },
+    {
+      "start": 1455.5,
+      "end": 1457.5,
+      "text": " and you have to take out the answer",
+      "chunk_id": 700
+    },
+    {
+      "start": 1457.5,
+      "end": 1459.5,
+      "text": " so you can do this",
+      "chunk_id": 701
+    },
+    {
+      "start": 1459.5,
+      "end": 1461.5,
+      "text": " so let's do this",
+      "chunk_id": 702
+    },
+    {
+      "start": 1461.5,
+      "end": 1463.5,
+      "text": " so this time",
+      "chunk_id": 703
+    },
+    {
+      "start": 1463.5,
+      "end": 1465.5,
+      "text": " I have to prove",
+      "chunk_id": 704
+    },
+    {
+      "start": 1465.5,
+      "end": 1467.5,
+      "text": " that A cube is equal to",
+      "chunk_id": 705
+    },
+    {
+      "start": 1467.5,
+      "end": 1469.5,
+      "text": " so you have to take out A square",
+      "chunk_id": 706
+    },
+    {
+      "start": 1469.5,
+      "end": 1471.5,
+      "text": " so first you have to multiply A by A",
+      "chunk_id": 707
+    },
+    {
+      "start": 1475.5,
+      "end": 1477.5,
+      "text": " so my A square will come",
+      "chunk_id": 708
+    },
+    {
+      "start": 1477.5,
+      "end": 1479.5,
+      "text": " so first we will divide it",
+      "chunk_id": 709
+    },
+    {
+      "start": 1479.5,
+      "end": 1481.5,
+      "text": " so 0 will come",
+      "chunk_id": 710
+    },
+    {
+      "start": 1481.5,
+      "end": 1483.5,
+      "text": " so we will divide it",
+      "chunk_id": 711
+    },
+    {
+      "start": 1483.5,
+      "end": 1485.5,
+      "text": " so 0 0 0 0",
+      "chunk_id": 712
+    },
+    {
+      "start": 1485.5,
+      "end": 1487.5,
+      "text": " so we will divide it",
+      "chunk_id": 713
+    },
+    {
+      "start": 1487.5,
+      "end": 1489.5,
+      "text": " so 1 will come",
+      "chunk_id": 714
+    },
+    {
+      "start": 1489.5,
+      "end": 1491.5,
+      "text": " so P will come",
+      "chunk_id": 715
+    },
+    {
+      "start": 1491.5,
+      "end": 1493.5,
+      "text": " so Q will come",
+      "chunk_id": 716
+    },
+    {
+      "start": 1493.5,
+      "end": 1495.5,
+      "text": " so R will come",
+      "chunk_id": 717
+    },
+    {
+      "start": 1495.5,
+      "end": 1497.5,
+      "text": " so 0 0 P R will come",
+      "chunk_id": 718
+    },
+    {
+      "start": 1497.5,
+      "end": 1499.5,
+      "text": " so P",
+      "chunk_id": 719
+    },
+    {
+      "start": 1499.5,
+      "end": 1501.5,
+      "text": " plus 0 plus Q R",
+      "chunk_id": 720
+    },
+    {
+      "start": 1501.5,
+      "end": 1503.5,
+      "text": " so we will divide it",
+      "chunk_id": 721
+    },
+    {
+      "start": 1503.5,
+      "end": 1505.5,
+      "text": " 0 plus Q plus R square",
+      "chunk_id": 722
+    },
+    {
+      "start": 1505.5,
+      "end": 1507.5,
+      "text": " so this is my A square",
+      "chunk_id": 723
+    },
+    {
+      "start": 1507.5,
+      "end": 1509.5,
+      "text": " clear",
+      "chunk_id": 724
+    },
+    {
+      "start": 1509.5,
+      "end": 1511.5,
+      "text": " now you have to take out A cube",
+      "chunk_id": 725
+    },
+    {
+      "start": 1511.5,
+      "end": 1513.5,
+      "text": " so we will multiply it",
+      "chunk_id": 726
+    },
+    {
+      "start": 1513.5,
+      "end": 1515.5,
+      "text": " so first we will divide it",
+      "chunk_id": 727
+    },
+    {
+      "start": 1515.5,
+      "end": 1517.5,
+      "text": " so P will come",
+      "chunk_id": 728
+    },
+    {
+      "start": 1517.5,
+      "end": 1519.5,
+      "text": " so we will check it",
+      "chunk_id": 729
+    },
+    {
+      "start": 1519.5,
+      "end": 1521.5,
+      "text": " so we have these elements",
+      "chunk_id": 730
+    },
+    {
+      "start": 1521.5,
+      "end": 1523.5,
+      "text": " so we will divide it",
+      "chunk_id": 731
+    },
+    {
+      "start": 1523.5,
+      "end": 1525.5,
+      "text": " so 0 0 0",
+      "chunk_id": 732
+    },
+    {
+      "start": 1525.5,
+      "end": 1527.5,
+      "text": " so we will divide it",
+      "chunk_id": 733
+    },
+    {
+      "start": 1527.5,
+      "end": 1529.5,
+      "text": " 0 0 0",
+      "chunk_id": 734
+    },
+    {
+      "start": 1529.5,
+      "end": 1531.5,
+      "text": " so we will divide it",
+      "chunk_id": 735
+    },
+    {
+      "start": 1531.5,
+      "end": 1533.5,
+      "text": " so 0 1 0",
+      "chunk_id": 736
+    },
+    {
+      "start": 1533.5,
+      "end": 1535.5,
+      "text": " so we will divide it",
+      "chunk_id": 737
+    },
+    {
+      "start": 1535.5,
+      "end": 1537.5,
+      "text": " so we will take out A cube",
+      "chunk_id": 738
+    },
+    {
+      "start": 1537.5,
+      "end": 1539.5,
+      "text": " so we will multiply it",
+      "chunk_id": 739
+    },
+    {
+      "start": 1539.5,
+      "end": 1541.5,
+      "text": " so P will come",
+      "chunk_id": 740
+    },
+    {
+      "start": 1541.5,
+      "end": 1543.5,
+      "text": " so 0 0",
+      "chunk_id": 741
+    },
+    {
+      "start": 1543.5,
+      "end": 1545.5,
+      "text": " and Q will come",
+      "chunk_id": 742
+    },
+    {
+      "start": 1545.5,
+      "end": 1547.5,
+      "text": " so we will divide it",
+      "chunk_id": 743
+    },
+    {
+      "start": 1547.5,
+      "end": 1549.5,
+      "text": " so 0 0 R will come",
+      "chunk_id": 744
+    },
+    {
+      "start": 1549.5,
+      "end": 1551.5,
+      "text": " clear",
+      "chunk_id": 745
+    },
+    {
+      "start": 1551.5,
+      "end": 1553.5,
+      "text": " so we will divide it",
+      "chunk_id": 746
+    },
+    {
+      "start": 1553.5,
+      "end": 1555.5,
+      "text": " so 0 0 P R",
+      "chunk_id": 747
+    },
+    {
+      "start": 1555.5,
+      "end": 1557.5,
+      "text": " P plus Q R",
+      "chunk_id": 748
+    },
+    {
+      "start": 1557.5,
+      "end": 1559.5,
+      "text": " and 0 Q plus R square",
+      "chunk_id": 749
+    },
+    {
+      "start": 1559.5,
+      "end": 1561.5,
+      "text": " so we will divide it",
+      "chunk_id": 750
+    },
+    {
+      "start": 1561.5,
+      "end": 1563.5,
+      "text": " so we will take it",
+      "chunk_id": 751
+    },
+    {
+      "start": 1563.5,
+      "end": 1565.5,
+      "text": " P Q plus R square P",
+      "chunk_id": 752
+    },
+    {
+      "start": 1565.5,
+      "end": 1567.5,
+      "text": " so we will divide it",
+      "chunk_id": 753
+    },
+    {
+      "start": 1567.5,
+      "end": 1569.5,
+      "text": " so we will take it",
+      "chunk_id": 754
+    },
+    {
+      "start": 1569.5,
+      "end": 1571.5,
+      "text": " P R plus Q square",
+      "chunk_id": 755
+    },
+    {
+      "start": 1571.5,
+      "end": 1573.5,
+      "text": " plus R square Q",
+      "chunk_id": 756
+    },
+    {
+      "start": 1573.5,
+      "end": 1575.5,
+      "text": " so we will divide it",
+      "chunk_id": 757
+    },
+    {
+      "start": 1575.5,
+      "end": 1577.5,
+      "text": " so we will take it",
+      "chunk_id": 758
+    },
+    {
+      "start": 1577.5,
+      "end": 1579.5,
+      "text": " so 0 plus",
+      "chunk_id": 759
+    },
+    {
+      "start": 1579.5,
+      "end": 1581.5,
+      "text": " P plus Q R",
+      "chunk_id": 760
+    },
+    {
+      "start": 1581.5,
+      "end": 1583.5,
+      "text": " plus Q R plus R cube",
+      "chunk_id": 761
+    },
+    {
+      "start": 1583.5,
+      "end": 1585.5,
+      "text": " plus Q R plus R cube",
+      "chunk_id": 762
+    },
+    {
+      "start": 1585.5,
+      "end": 1587.5,
+      "text": " clear",
+      "chunk_id": 763
+    },
+    {
+      "start": 1587.5,
+      "end": 1589.5,
+      "text": " so now",
+      "chunk_id": 764
+    },
+    {
+      "start": 1589.5,
+      "end": 1591.5,
+      "text": " we have A cube",
+      "chunk_id": 765
+    },
+    {
+      "start": 1591.5,
+      "end": 1593.5,
+      "text": " so we have to put all values",
+      "chunk_id": 766
+    },
+    {
+      "start": 1593.5,
+      "end": 1595.5,
+      "text": " so we have to put all values",
+      "chunk_id": 767
+    },
+    {
+      "start": 1595.5,
+      "end": 1597.5,
+      "text": " so we have to put P I",
+      "chunk_id": 768
+    },
+    {
+      "start": 1597.5,
+      "end": 1599.5,
+      "text": " so we have to put P I",
+      "chunk_id": 769
+    },
+    {
+      "start": 1599.5,
+      "end": 1601.5,
+      "text": " so we have to take the order of I",
+      "chunk_id": 770
+    },
+    {
+      "start": 1601.5,
+      "end": 1603.5,
+      "text": " Q A",
+      "chunk_id": 771
+    },
+    {
+      "start": 1603.5,
+      "end": 1605.5,
+      "text": " so we will multiply Q by A",
+      "chunk_id": 772
+    },
+    {
+      "start": 1605.5,
+      "end": 1607.5,
+      "text": " so 0 Q 0",
+      "chunk_id": 773
+    },
+    {
+      "start": 1607.5,
+      "end": 1609.5,
+      "text": " 0 0 Q",
+      "chunk_id": 774
+    },
+    {
+      "start": 1609.5,
+      "end": 1611.5,
+      "text": " P Q",
+      "chunk_id": 775
+    },
+    {
+      "start": 1611.5,
+      "end": 1613.5,
+      "text": " Q square",
+      "chunk_id": 776
+    },
+    {
+      "start": 1613.5,
+      "end": 1615.5,
+      "text": " Q R",
+      "chunk_id": 777
+    },
+    {
+      "start": 1615.5,
+      "end": 1617.5,
+      "text": " and R A square",
+      "chunk_id": 778
+    },
+    {
+      "start": 1617.5,
+      "end": 1619.5,
+      "text": " so we will multiply by R",
+      "chunk_id": 779
+    },
+    {
+      "start": 1619.5,
+      "end": 1621.5,
+      "text": " P R Q R R square",
+      "chunk_id": 780
+    },
+    {
+      "start": 1621.5,
+      "end": 1623.5,
+      "text": " P R square",
+      "chunk_id": 781
+    },
+    {
+      "start": 1623.5,
+      "end": 1625.5,
+      "text": " P R plus",
+      "chunk_id": 782
+    },
+    {
+      "start": 1625.5,
+      "end": 1627.5,
+      "text": " R square Q",
+      "chunk_id": 783
+    },
+    {
+      "start": 1627.5,
+      "end": 1629.5,
+      "text": " and Q R plus R cube",
+      "chunk_id": 784
+    },
+    {
+      "start": 1749.5,
+      "end": 1757.08,
+      "text": " 1 plus y square minus 2y upon 1 plus y square 2y upon 1 plus y square or 1",
+      "chunk_id": 785
+    },
+    {
+      "start": 1757.08,
+      "end": 1761.5,
+      "text": " minus y square upon 1 plus y square clear",
+      "chunk_id": 786
+    },
+    {
+      "start": 1761.5,
+      "end": 1764.46,
+      "text": " but I say multiply cannot multiply cannot what a yoga",
+      "chunk_id": 787
+    },
+    {
+      "start": 1764.46,
+      "end": 1770.82,
+      "text": " well it's key multiply second a day to yoga 1 minus y square upon 1 plus y",
+      "chunk_id": 788
+    },
+    {
+      "start": 1770.82,
+      "end": 1775.48,
+      "text": " square as it is like a place to plus 2 y square upon 1 plus y square as a",
+      "chunk_id": 789
+    },
+    {
+      "start": 1775.48,
+      "end": 1783.16,
+      "text": " technique yeah I got minus K 2 y upon 1 plus y square or plus y minus y cube",
+      "chunk_id": 790
+    },
+    {
+      "start": 1783.16,
+      "end": 1789.1200000000001,
+      "text": " upon 1 plus y square a lot of like at the end of minus y plus y cube upon 1",
+      "chunk_id": 791
+    },
+    {
+      "start": 1789.1200000000001,
+      "end": 1795.48,
+      "text": " plus y square plus 2 y upon 1 plus y square or 2 y square",
+      "chunk_id": 792
+    },
+    {
+      "start": 1795.48,
+      "end": 1801.64,
+      "text": " upon 1 plus y square plus 1 minus y square upon 1 plus y square correct a",
+      "chunk_id": 793
+    },
+    {
+      "start": 1801.64,
+      "end": 1806.24,
+      "text": " little correct a bus a bit Charles in the name of my sister is coming up to",
+      "chunk_id": 794
+    },
+    {
+      "start": 1806.24,
+      "end": 1811.5600000000002,
+      "text": " scale same I got 1 plus y square or 1 minus y square plus 2 y square to yoga",
+      "chunk_id": 795
+    },
+    {
+      "start": 1811.5600000000002,
+      "end": 1817.1200000000001,
+      "text": " 1 plus y square upon 1 plus y square cut a banana means here when I get to",
+      "chunk_id": 796
+    },
+    {
+      "start": 1817.12,
+      "end": 1831.76,
+      "text": " 1 minus y y 1 or here we put the name of y key 10 by 2 to 1 minus 10 alpha by 2",
+      "chunk_id": 797
+    },
+    {
+      "start": 1831.76,
+      "end": 1839.56,
+      "text": " 10 alpha by 2 or 1 you can prove another that is I plus a hence proved clear a",
+      "chunk_id": 798
+    },
+    {
+      "start": 1839.56,
+      "end": 1846.1999999999998,
+      "text": " lot better as a girl I love us and I give you a fix in 2 fy or FX specify",
+      "chunk_id": 799
+    },
+    {
+      "start": 1906.2,
+      "end": 1915.64,
+      "text": " sign y cross X plus 0 0 plus 0 plus 0 here I got sine X sine y cos x plus cos",
+      "chunk_id": 800
+    },
+    {
+      "start": 1915.64,
+      "end": 1924.52,
+      "text": " y sine x plus 0 here I got minus K sine x sine y plus cos x cos y or either 0",
+      "chunk_id": 801
+    },
+    {
+      "start": 1924.52,
+      "end": 1930.44,
+      "text": " 1 I guess I got chicken a bit of a cos a plus b kind of a little bit of a cos x",
+      "chunk_id": 802
+    },
+    {
+      "start": 1930.44,
+      "end": 1935.32,
+      "text": " plus y got Jogi Puchi Chahiye you might as well make it one more sign a cos b",
+      "chunk_id": 803
+    },
+    {
+      "start": 1965.32,
+      "end": 1974.36,
+      "text": " plus cos theta sine theta cos phi sine phi a chemical time and a scheme of life",
+      "chunk_id": 804
+    },
+    {
+      "start": 1974.36,
+      "end": 1982.96,
+      "text": " separate a little bit cos square theta cos phi sine phi plus cos theta sine",
+      "chunk_id": 805
+    },
+    {
+      "start": 1982.96,
+      "end": 1990.2,
+      "text": " theta into sine square phi SS key separate a to sine theta cos theta into",
+      "chunk_id": 806
+    },
+    {
+      "start": 1990.2,
+      "end": 1998.72,
+      "text": " cos square phi plus cos square sine square theta into cos phi sine phi a",
+      "chunk_id": 807
+    },
+    {
+      "start": 1998.72,
+      "end": 2004.8400000000001,
+      "text": " finalist kiss it up there so you have a little element cos theta sine theta cos",
+      "chunk_id": 808
+    },
+    {
+      "start": 2004.8400000000001,
+      "end": 2011.48,
+      "text": " phi sine phi plus sine square theta sine square phi it's our element of a of my",
+      "chunk_id": 809
+    },
+    {
+      "start": 2011.48,
+      "end": 2015.0,
+      "text": " inch are always a niki is miserable common little to common car is because",
+      "chunk_id": 810
+    },
+    {
+      "start": 2135.0,
+      "end": 2142.4,
+      "text": " study there are two factories A&B each factories produced sports clothes for",
+      "chunk_id": 811
+    },
+    {
+      "start": 2142.4,
+      "end": 2146.36,
+      "text": " boys and girls there are three types of clothes produced in both factories type",
+      "chunk_id": 812
+    },
+    {
+      "start": 2146.36,
+      "end": 2149.92,
+      "text": " for second third for boys number of units type for second third are",
+      "chunk_id": 813
+    },
+    {
+      "start": 2149.92,
+      "end": 2156.72,
+      "text": " respectively chicken in factory a or in factory B to parallel factory a come",
+      "chunk_id": 814
+    },
+    {
+      "start": 2156.72,
+      "end": 2163.04,
+      "text": " out a factory a metin track item a boys give first second or third to factory a",
+      "chunk_id": 815
+    },
+    {
+      "start": 2193.04,
+      "end": 2200.2799999999997,
+      "text": " or it clear actually I'm like I if P present the matters of number of units",
+      "chunk_id": 816
+    },
+    {
+      "start": 2200.2799999999997,
+      "end": 2204.68,
+      "text": " in each type produced by factory a for both boys and girls to be money Mary",
+      "chunk_id": 817
+    },
+    {
+      "start": 2204.68,
+      "end": 2210.08,
+      "text": " Avery you boys give me girls give me to represent the head factory to the",
+      "chunk_id": 818
+    },
+    {
+      "start": 2210.08,
+      "end": 2215.8,
+      "text": " effective are defective boys and girls give me boys give us your boys and girls",
+      "chunk_id": 819
+    },
+    {
+      "start": 2215.8,
+      "end": 2220.64,
+      "text": " ticket find the mattresses represent total production of sports clothes of",
+      "chunk_id": 820
+    },
+    {
+      "start": 2220.64,
+      "end": 2225.8799999999997,
+      "text": " each type of boys the final mattresses represent the total production of",
+      "chunk_id": 821
+    },
+    {
+      "start": 2225.8799999999997,
+      "end": 2231.64,
+      "text": " sports clothes in each type of boys boys",
+      "chunk_id": 822
+    },
+    {
+      "start": 2231.64,
+      "end": 2243.96,
+      "text": " factory a factory B factory a factory B to you that 80 70 65 85 65 72 boys",
+      "chunk_id": 823
+    },
+    {
+      "start": 2243.96,
+      "end": 2248.28,
+      "text": " come here we have a boys come factory a factory B as a girls can call them a",
+      "chunk_id": 824
+    },
+    {
+      "start": 2248.28,
+      "end": 2256.04,
+      "text": " same factory a factory B to you that 80 75 90 or you have 50 55 80 you'll get us",
+      "chunk_id": 825
+    },
+    {
+      "start": 2256.04,
+      "end": 2261.84,
+      "text": " a factory a or factory B to marry a cancer I guess cancer I guess cancer I guess",
+      "chunk_id": 826
+    },
+    {
+      "start": 2261.84,
+      "end": 2266.32,
+      "text": " can let our be three by two mattresses represent the total production of sports",
+      "chunk_id": 827
+    },
+    {
+      "start": 2266.32,
+      "end": 2271.48,
+      "text": " clothes for each type boys and girls find the transpose of our ticket to a",
+      "chunk_id": 828
+    }
+  ],
+  "text": " Good morning to all of you, good morning again capsule has started and today we are doing the whole mattress chapter I will make only one video of mattress and you don't have to do anything outside of this just do this twice at least twice and maximum 4 times then your work will be done clear, let's start ok, you all have read the mattress before so there is no need to tell the basics I will come to the direct question the first question is, the easiest question is that I have been given two mattresses and equal xyz whatever is the variable you have to find their values so you have to compare directly, there is no need to do anything the first element that is equal to first element that is 3x plus 7 is equal to 0, x value is minus 7 upon 3 now I have kept y plus 1 equal to 8, so y value is 7, then I kept this equal to this, still y value is 7 and then I kept this ok, what do people do, their x value is equal to y value, let's leave the question but there is a technical thing see if I keep fourth element equal then 2 minus 3x is equal to 4, so I got 3x is equal to minus 2 x value is minus 2 upon 3 now you can see that my x has two values but the variable is one so one variable cannot have two values so the answer to this will be cannot be determined ok, if there was only one value then our answer would be the same but sometimes it happens that they give questions to mislead you you have taken out one value, you have left one and your answer is wrong, right? so you have to find the value, if the value is different from any element then it cannot be determined, right? next question this is a theoretical question, let's see what to do it is written of three schools this is a school ABC organized an exhibition in their locality where they sold paper bags, scrap books and pastels so first they took paper bag scrap book and one more pastel sheet ok made by them using recycling paper at the rate of 20, 15 and 5 per week school A made 25 paper bags, 12 scrap books and 34 pastel sheets school B made 22 paper bags 15 scrap books and 28 pastel sheets and school C made 26 paper bags 18 scrap books and 36 using matrices find the total amount raised by each school, I have to find the total amount so you remember this whenever you have to find the total amount from matrices then you have to make two types of matrices one is of quantity and one is of rate so remember this that quantity matrices will be horizontal matrices and vertical matrices will be of rate this is not a fixed rule but you will get the answer you will get a system to solve this you have to do that so first I told you that matrices are of quantity so these are my quantities so this is school A, school B, school C so my matrix is 25 12, 34 22, 15 and 28 26, 18 and 36 so these are my quantity matrices how much is the rate? 20, 15 and 5 so I have 20, 15 and 5 so you have to multiply these I have taken this matrix as A and this as B so I have to find A into B so let's find A into B so let's multiply this 25 into 20 is 500 12 into 15 is 180 34 into 5 is 170 so we will add these similarly we will multiply this so this quantity will be of school A this quantity will be of school B and this quantity will be of school C and this is asking us how much money each school has saved ok next now it is written I have 5 matrices X, Y, Z, W, P their order this is of X, Y, Z this is of W and this is of P I have to tell you that restriction on N, K and P so that P, Y plus W, Y are defined now these two questions are theoretical so what kind of questions are these so P, Y plus W, Y are defined now what is the meaning of defined let me explain I have written P's order as P P into K Y's order is 3 into K W's order is N into 3 and Y's order is 3 into K you must have read in the matrix whenever we want to multiply two matrices then first number of columns should be equal to number of rows of second matrices it means these middle ones should be equal we can multiply two matrices only then what is meant by defined we can subtract this and this and can also add them ok so you understand now I am multiplying first order is M into N and second order is N into K these two should be equal if not then we can not multiply the matrix and after multiplying the order will be of M into K so my K and 3 should be equal it means my K value is 3 now when this order will be P into K this and this order will be this is equal this will be N into K so we have to add these two matrices you must have read whenever we add or subtract two matrices then their order should be same otherwise we can not add or subtract so when I saw this order then this is this order and this is this order and I have to add this element should be equal to this and this element should be equal to this then it can be added so P is equal to N and K is equal to 3 so this is the second part if N and P is equal then what will be the order of this so let me ask you one thing suppose in any matrix there is an order of 3 into 2 and I multiplied it with 5 so 5 will be multiplied in all but will there be any change in the order no, the order will be same so similarly if the order of X is 2 into N so if the order of X is 2 into N then the order of 7X will also be 2 into N and the order of Z is 2 into P so the order of 5Z will also be 2 into P and I have to minus so the order should be same and I have been given N and P so it is confirmed that this is 2, 2 and N and P it means both the order is equal now when I will minus two matrices of same order so the order will be same so the order of this will be 2 into N or 2 into P it means both the answer is correct if there is multiple choice then write this in this option and if there is no option then write both because N and P are equal next there are two equations A and B so I have to solve this equation so we will solve it with simple algebraic method like we used to do in 10th class we will use elimination method so here 2A is there so I will multiply it with 2 so I will write it as it is A plus 2B is equal to 1, 2, 6, minus 3 and I multiplied it with 2 so it is 4A minus 2B is equal to 4 minus 2 4 minus 2 remember that when you multiply then you have to multiply it with 2 so I have to multiply it with 2 so I will divide it with 5 so it will be 5, 0, 10 and minus 5 so I will divide it with 5 so it will be 1, 0, 2, minus 1 so you have to put only one value so either you put it here or here as you wish so 1, 0, 2, minus 1 plus 2B is equal to 1, 2, 6, minus 3 so we will take it as minus so my 2B value will be 1, 2, 6, minus 3 minus 1, 0, 2, minus 1 so we will minus it 0, 2 and here comes 4 and here comes minus 2 so my value is 2B so we will take B and divide it with 2 so 0, 1, 2, minus 1 and both the matrices are same right? so it happens sometimes so this is my A and B value so it will be like this sometimes it will be 2A plus 3B so you have to use elimination method and it will be solved easily next question this is a very important question so it is simple that this matrix is 2 by 2 and this matrix is 2 by 2 so we have to find the order of matrices so it is obvious that it will be 2 by 2 because if we multiply 2 by 2 by 2 so the order will be 2 by 2 but in such questions it is important to find the order of x no problem, it is easy so what I have to do is I have to assume this as ABCD I have assumed ABCD and multiplied it and after multiplying it it becomes A minus 4C it becomes B minus 4D and it becomes 3A minus 2C and it becomes 3B minus 2D and I have given the equal to and now you have to compare it will be 4 questions first one will be A minus 4C equal to minus 16 and second one will be 3A minus 2C is equal to 7 after solving both of them you have to find the value of A and C I think you know this so I have to find one pair so I have to multiply it by 2 sorry, I have to do it in this because I have to make 4C so I have to do it like this and it becomes 6A minus 4C is equal to 14 let's minus both of them so I have changed the sign so it becomes minus 5A is equal to minus 30 and it becomes 6 so I will put A value of 6 here so it will become 2 questions so B minus 4D is equal to minus 6 and 3B minus 2D is equal to 2 similarly you will get the value of B and D and A, B, C, D will be the value of all if you want to put it here then your matrix will be X clear? let's take one more question this time I have to find A but this time I have to find the order I have to let it but I don't know the order so how much is the order of this? 3 into 2 because there are 3 rows and 2 columns so let's assume that so I have told you that these two middle ones should be equal it means M value is 2 now this and this order becomes this one it means this is 3, 3 so this should be equal to N so N value is 3 it means A order is 2 by 3 means 2 rows and 3 columns so I have assumed A A, B, C, and X, Y, Z so there are 2 rows and 3 columns now you have to do now you have to do as I did in the first question multiply it by this so let's multiply first will be 2A minus X then 2B minus Y then 2C minus Z then 2A B C then 3A plus 4X 3B plus 4Y and 3C plus 4Z so I have to put A equal to of these matrices so you don't have to do anything you have to compare it so A value is 1 B value is 2 C value is 1 B value is 2 C value is 5 so you have to put this value means 2A minus X equal to minus 1 A value is 1 so I have put A equal to 1 2 minus X is equal to minus 1 X value is 3 so we will get the value of all so I have got A, B, C, X, Y, Z so I will get A matrix blue clear next now what is symmetric and skew symmetric matrix when we transpose a matrix and when that transpose is equal to that then we call it symmetric matrix and when I transpose A it is minus A so this is the system if we do plus and transpose whole then it will be different but when we multiply then first C then B means order changes first comes third then second then first so this means A transpose is equal to A and B transpose is equal to B this is given and what I have to prove I have to show that AB minus BA is skew symmetric so I have assumed AB minus BA is X when I assumed AB minus BA is X then I have put transpose on both sides so AB is separated and BA is separated they are separated in plus and minus now AB is multiplied so it will be B transpose A transpose and it will be A transpose B transpose now I have A transpose A is equal to A B transpose B is equal to B so I have given B transpose as B and A transpose as A so I have A B minus B A this is X transpose and this is X it means X transpose is equal to minus X so X is my skew symmetric matrix it means this is skew symmetric matrix is it clear very good, let's move ahead prove that A is symmetric I have to prove that A is symmetric then this is symmetric if A is skew symmetric then this is skew symmetric means I have to prove that these matrices are depending on A so my X transpose will be B transpose AB it means X is symmetric because X transpose is equal to X now when I take case 2 I will keep A transpose as minus A so I have taken this as skew symmetric when I take A transpose as minus A then my X transpose will be B transpose minus A into B so minus will come out B transpose AB so X transpose minus X it means it is skew symmetric matrices alright very good next express the matrices this is sum of symmetric and skew symmetric matrices so formula is like this you have to take B first you have to take P and Q P is B plus B transpose upon 2 and Q is B minus B transpose upon 2 first you have to take both so when I take B it will be 2 minus 2 minus 4 minus 1 3 4 1 minus 2 minus 3 now I am taking both as plus and upon 2 I have added this in B so it will be 4 minus 3 minus 3 minus 3 6 2 and here is my minus 3 2 and minus 6 I will subtract this so 0 and here is my minus 1 and here is my minus 5 here is my 1 and here is my 0 and here is my 4 plus 2 6 here is my plus 5 and here is my minus 6 and here is my 0 so this is my P and Q now I have to show P so I have taken P transpose 1 upon 2 4 minus 3 minus 3 6 2 minus 3 2 minus 6 and it is same so P is symmetric similarly I will take Q transpose when I will take Q transpose then all the signs will change it means it is a Q transpose equal to minus Q it means Q is skew symmetric it means P is symmetric and Q is skew symmetric because later you have to add P and Q now I have to add P and Q when you add P and Q then it will become B when you add P and Q then it will become B it means B is a sum of two matrices P and Q where P is symmetric and Q is skew symmetric sometimes you will not get these matrices in case it will say express matrices B as a sum of symmetric and skew symmetric so you have to do the same first you have to subtract P B plus B transpose upon 2 Q minus B transpose upon 2 now you have to prove P as symmetric so we will subtract P transpose so B plus B transpose upon 2 whole transpose 1 upon 2 will come B transpose will be separate and B transpose transpose will be separate 1 upon B transpose plus B and P will come again so P transpose equal to P so P will be symmetric now we will prove Q so if you will not get matrix then you don't have to let it if you let the matrix then you will not get marks right next show that matrix is a satisfied equation sometimes it comes that it is a satisfied equation I think there is a misprint because it is a cube both are A so we will assume Q so you don't have to do anything so we will multiply A so you know how to multiply so we will multiply 4 plus 3 is 7 6 plus 6 is 12 2 plus 2 is 4 3 plus 4 is 7 so my matrix A square is here so we will take A cube so we will multiply so my A cube will come 14 plus 12 is 26 21 plus 24 is 45 8 plus 7 is 15 and this is 12 and 14 is 26 so now what you have to do you have to put all values here it means A cube 26 plus 45 plus 15 plus 26 minus 4A square 7 plus 12 is 47 plus A so you have to add them so first these two will be plus and then these two will be minus sometimes kids make mistake that they add these two first but they don't have to add because this is minus so first we will add these two so this is 28, 135, 15, 52 and when we will add minus so this will be 28, 48 this is wrong I thought there was a misprint so you have to do like this and your answer will be 0 ok sometimes you are given this question sometimes it is given that this is A and fx is given as x square minus 3x plus 5 ok and I have to find fa so you have to put a instead of x so this will be a square minus 3a plus 5 so the problem is I will get A square and how will I add 5 in matrix so when you have to add a number in a matrix so we can't add like this we will put i in 5 we will multiply i and then add because we need two matrices and their order should be same clear  so you are given this and you have to find k so you have to find A square and multiply it 3 minus 2 4 minus 2 9 minus 8 1 minus 6 plus 4 minus 2 12 minus 8 4 minus 8 plus 2 minus 4 this is my value and I have copied A value and I have given 2i so I will add 2i will be 1 plus 2i minus 2 will be like this 4 will be like this and this will be minus 2 and this will be same when you will get such question so these will be same just k value will be 1 if you multiply 2 here then k value will be 2 anything can be multiplied but for now nothing so we will consider k as 1 so we have given k as symmetry and b as symmetry and I have to find A so if you think that I will multiply both then I will get answer no I need A value so first I will do A is symmetric so I will take out A 3A minus 1 2 5C B A2 and I will keep it equal now I will compare so A value is 2 ok B value is minus 1 and C value is 8 so A value is 2 B value is minus 1 C value is 8 so A will be like this 3 2 minus 1 2 5 8 and minus 1 8 2 clear so this is given so I will keep B transpose as minus B so I will take out B transpose B 3A B minus A E minus 2B minus C minus 2 6 minus F and I will keep it equal to minus B so I will multiply minus D minus 3 minus A A minus B minus E 2B plus C and 2 minus 6 so we will take out other values so I will compare D equal to minus D so 2D equal to 0 D 0 so like this D 0 E 0 F 0 so D 0 E 0 F 0 A B C values are here so we will put A B C values here so all values are here so my B value is here D 0 B minus A B minus 2 minus 1 minus 3 minus 2 3 E value is 0 6 A value is 2 and 2B minus 2B minus C so minus 2 minus 8 minus 10 no minus 2B so it will be plus minus 6 and F is 0 so it is B so I have A and B so I have to take out A B so you can multiply so you can do this write A here 321 and 321 minus 1 and this is 258 and minus 182 so you have to multiply and you have to take out the answer so you can do this so let's do this so this time I have to prove that A cube is equal to so you have to take out A square so first you have to multiply A by A so my A square will come so first we will divide it so 0 will come so we will divide it so 0 0 0 0 so we will divide it so 1 will come so P will come so Q will come so R will come so 0 0 P R will come so P plus 0 plus Q R so we will divide it 0 plus Q plus R square so this is my A square clear now you have to take out A cube so we will multiply it so first we will divide it so P will come so we will check it so we have these elements so we will divide it so 0 0 0 so we will divide it 0 0 0 so we will divide it so 0 1 0 so we will divide it so we will take out A cube so we will multiply it so P will come so 0 0 and Q will come so we will divide it so 0 0 R will come clear so we will divide it so 0 0 P R P plus Q R and 0 Q plus R square so we will divide it so we will take it P Q plus R square P so we will divide it so we will take it P R plus Q square plus R square Q so we will divide it so we will take it so 0 plus P plus Q R plus Q R plus R cube plus Q R plus R cube clear so now we have A cube so we have to put all values so we have to put all values so we have to put P I so we have to put P I so we have to take the order of I Q A so we will multiply Q by A so 0 Q 0 0 0 Q P Q Q square Q R and R A square so we will multiply by R P R Q R R square P R square P R plus R square Q and Q R plus R cube 1 plus y square minus 2y upon 1 plus y square 2y upon 1 plus y square or 1 minus y square upon 1 plus y square clear but I say multiply cannot multiply cannot what a yoga well it's key multiply second a day to yoga 1 minus y square upon 1 plus y square as it is like a place to plus 2 y square upon 1 plus y square as a technique yeah I got minus K 2 y upon 1 plus y square or plus y minus y cube upon 1 plus y square a lot of like at the end of minus y plus y cube upon 1 plus y square plus 2 y upon 1 plus y square or 3 C cutting it or 2 y square upon 1 plus y square plus 1 minus y square upon 1 plus y square correct a little correct a bus a bit Charles in the name of my sister is coming up to scale same I got 1 plus y square or 1 minus y square plus 2 y square to yoga 1 plus y square upon 1 plus y square cut a banana means here when I get to 1 minus y y 1 or here we put the name of y key 10 by 2 to 1 minus 10 alpha by 2 10 alpha by 2 or 1 you can prove another that is I plus a hence proved clear a lot better as a girl I love us and I give you a fix in 2 fy or FX specify sign y cross X plus 0 0 plus 0 plus 0 here I got sine X sine y cos x plus cos y sine x plus 0 here I got minus K sine x sine y plus cos x cos y or either 0 1 I guess I got chicken a bit of a cos a plus b kind of a little bit of a cos x plus y got Jogi Puchi Chahiye you might as well make it one more sign a cos b plus cos theta sine theta cos phi sine phi a chemical time and a scheme of life separate a little bit cos square theta cos phi sine phi plus cos theta sine theta into sine square phi SS key separate a to sine theta cos theta into cos square phi plus cos square sine square theta into cos phi sine phi a finalist kiss it up there so you have a little element cos theta sine theta cos phi sine phi plus sine square theta sine square phi it's our element of a of my inch are always a niki is miserable common little to common car is because study there are two factories A&B each factories produced sports clothes for boys and girls there are three types of clothes produced in both factories type for second third for boys number of units type for second third are respectively chicken in factory a or in factory B to parallel factory a come out a factory a metin track item a boys give first second or third to factory a or it clear actually I'm like I if P present the matters of number of units in each type produced by factory a for both boys and girls to be money Mary Avery you boys give me girls give me to represent the head factory to the effective are defective boys and girls give me boys give us your boys and girls ticket find the mattresses represent total production of sports clothes of each type of boys the final mattresses represent the total production of sports clothes in each type of boys boys factory a factory B factory a factory B to you that 80 70 65 85 65 72 boys come here we have a boys come factory a factory B as a girls can call them a same factory a factory B to you that 80 75 90 or you have 50 55 80 you'll get us a factory a or factory B to marry a cancer I guess cancer I guess cancer I guess can let our be three by two mattresses represent the total production of sports clothes for each type boys and girls find the transpose of our ticket to a"
+}
