@@ -32,16 +32,12 @@ A small pipeline that turns course videos into searchable text with embeddings a
 - Or use `01_run_whisper_create_chunks.py` (PyTorch whisper) for a sample single-file transcription.
 - Save or move the resulting segment JSON into `outputs/` (ensure it has a `segments` list with `text` fields).
 
-1) Build embeddings
-- Update `JSON_PATH` inside `read_chunks_03.py` to point to your target segment JSON.
-- Run `python read_chunks_03.py` to rewrite sequential `chunk_id`s, embed each segment via Ollama, and save `embeddings_df.joblib`.
+3) Build embeddings
+- Update `JSON_PATH` inside `create_embaddings_03.py` to point to your target segment JSON.
+- Run `python create_embaddings_03.py` to rewrite sequential `chunk_id`s, embed each segment via Ollama, and save `embeddings_df.joblib`.
 
-1) Query the corpus
+4) Query the corpus
 - Run `python 04_process_query.py`.
 - Enter a question; the script embeds it and prints the top matching segments.
-- you can you the top number you want like 3, 5, 10
+- you can use the top number you want like 3, 5, 10
 
-## Notes
-- The sample paths assume running from the project root.
-- For longer batches, adapt the commented loop in `run_faster_whisper_.py` to iterate over `audios/` and aggregate outputs.
-# RAG_based_AI_Assistant_project
