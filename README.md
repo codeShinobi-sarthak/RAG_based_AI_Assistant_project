@@ -28,8 +28,7 @@ A small pipeline that turns course videos into searchable text with embeddings a
 - Run `python 02_process_videos.py` to create MP3s in `audios/` (adjust `ffmpeg_path` first).
 
 2) Transcribe
-- For GPU, run `python run_faster_whisper_.py` .
-- Or use `01_run_whisper_create_chunks.py` (PyTorch whisper) for a sample single-file transcription.
+- use `01_run_whisper_create_chunks.py` (PyTorch whisper) for a sample single-file transcription.
 - Save or move the resulting segment JSON into `outputs/` (ensure it has a `segments` list with `text` fields).
 
 3) Build embeddings
